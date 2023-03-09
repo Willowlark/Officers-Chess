@@ -16,12 +16,14 @@ secrets = json.load(open('secrets.json'))
 
 class Foundry(object):
     
-    def _token_source(self, classname, color='blue'):
+    def _token_source(self, classname, color='Blue', weapon='NoWeapon'):
+        if classname == "Dancer": 
+            return "Officer_Chess/Engage/Unique/Seadas/Dancer/Dancer-NoWeapon.png"
         root = '/Users/bill/Library/Application Support/FoundryVTT/Data/Officer_Chess/Engage/'
         relroot = 'Officer_Chess/Engage/'
         tokens = []
-        fname = f'{classname}-f-{color}.png'
-        mname = f'{classname}-m-{color}.png'
+        fname = f'{color}/Soldier/{classname}/Female-{classname}-{weapon}.png'
+        mname = f'{color}/Soldier/{classname}/Male-{classname}-{weapon}.png'
         if os.path.exists(root+fname): tokens.append(relroot+fname)
         if os.path.exists(root+mname): tokens.append(relroot+mname)
         if tokens: 
@@ -58,7 +60,7 @@ class Foundry(object):
 
             foundry = json.loads(open(self.template_path+'class.json').read())
             foundry['name'] = x.Class
-            foundry['_id'] = blake2b(bytes(x.Class+x.Proficencies+'blue', 'utf-8'), digest_size=16).hexdigest()
+            foundry['_id'] = blake2b(bytes(x.Class+x.Proficencies+'Blue', 'utf-8'), digest_size=16).hexdigest()
             foundry['img'] = img
             foundry['system']['props']['health'] = int(x.HP)
             foundry['system']['props']['maxhplabel'] = str(x.HP)
@@ -86,15 +88,15 @@ class Foundry(object):
             db.append(foundry)
             
             npc = deepcopy(foundry)
-            npc['_id'] = blake2b(bytes(x.Class+x.Proficencies+'green', 'utf-8'), digest_size=16).hexdigest()
-            img = self._token_source(x.Class, 'green')
+            npc['_id'] = blake2b(bytes(x.Class+x.Proficencies+'Green', 'utf-8'), digest_size=16).hexdigest()
+            img = self._token_source(x.Class, 'Green')
             npc['img'] = img
             npc['prototypeToken']['texture']['src'] = img
             db_npc.append(npc)
             
             foe = deepcopy(foundry)
-            foe['_id'] = blake2b(bytes(x.Class+x.Proficencies+'red', 'utf-8'), digest_size=16).hexdigest()
-            img = self._token_source(x.Class, 'red')
+            foe['_id'] = blake2b(bytes(x.Class+x.Proficencies+'Red', 'utf-8'), digest_size=16).hexdigest()
+            img = self._token_source(x.Class, 'Red')
             foe['img'] = img
             foe['prototypeToken']['texture']['src'] = img
             db_foe.append(foe)
@@ -245,7 +247,7 @@ def update( *argv,
         if t.lower() in targets:
             updates.append(t.lower())
         else:
-            print(f"WARN: Target {t.lower()} not configured, Skipping...")
+            print(f"WARN: Target {t.lower()} not configuRed, Skipping...")
     updates = set(updates)
     if not confirm: 
         conf = input(f'INFO: {updates}\nQUERY: Update these folders in Foundry? [Y/Yes]: ')
