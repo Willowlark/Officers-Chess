@@ -1,0 +1,27 @@
+Name,Def,Wt,Tags
+Leather Shield,1,1,
+Iron Shield,2,2,
+Steel Shield,3,3,
+Silver Shield,4,4,
+Talisman Shield,1,4,Bonus(Res+1)
+Hexlock Shield,2,5,Bonus(Res+2)
+Aegis Shield,6,6,Relic(Fraldarius) Bonus(Res+2)
+Ochain Shield,6,4,Sacred(Cichol) Guarded
+Seiros Shield,5,3,Sacred(Seiros) !Pavise(Monsters)
+Aurora Shield,3,0,Countermeasure(Flying)
+Kadmos Shield,3,0,Countermeasure(Armoured)
+Lampos Shield,3,0,Countermeasure(Cavalry)
+Accuracy Ring,0,0,Bonus(Skl+1)
+Critical Ring,0,0,Lucky(1)
+Speed Ring,0,0,Bonus(Spd+1)
+March Ring,0,0,Fast(1)
+Goddess Ring,0,0,Blessed(2) Lucky(1)
+Prayer Ring,0,0,Blessed(2)
+Magic Staff,0,1,Bonus(Mag+1)
+Healing Staff,0,1,GreaterHeal(2)
+Caduceus Staff,0,1,Sacred(Cethleann) SpellRange(1)
+Thyrsus,0,1,Relic(Gloucester) SpellRange(1) !Pavise
+Rafail Gem,0,0,Relic(Lamine) Countermeasure(Flying) Countermeasure(Armoured) Countermeasure(Cavalry) Guarded !Pavise
+Asclepius,3,1,Blessed(1)
+Chalice of Beginnings,0,0,Countermeasure(Flying) Countermeasure(Armoured) Countermeasure(Cavalry) DistantCounter
+Fetters of Dromi,0,0,Relic(Aubin) Fast(1) Canto !Pavise

@@ -1,0 +1,177 @@
+Reforged ,DmgType ,Type   ,Name                  ,Mt ,Hit ,Rng      ,Wt ,Lvl ,Tags
+-        ,Martial ,Swords ,Iron Sword            , 5 , 90 ,1        , 5 ,E   ,
+-        ,Martial ,Swords ,Steel Sword           , 8 , 85 ,1        ,10 ,D   ,
+-        ,Martial ,Swords ,Silver Sword          ,12 , 90 ,1        , 8 ,B   ,
+-        ,Martial ,Swords ,Brave Sword           , 9 , 75 ,1        ,12 ,B   ,Brave
+-        ,Martial ,Swords ,Killing Edge          , 8 , 85 ,1        ,10 ,C   ,Lucky(2)
+-        ,Martial ,Swords ,Training Sword        , 3 ,100 ,1        , 4 ,E   ,
+-        ,Martial ,Swords ,Levin Sword           , 9 , 70 ,1~2      , 9 ,C   ,Magic(Reason)
+-        ,Martial ,Swords ,Armorslayer           , 8 , 80 ,1        ,11 ,D   ,Effective(Armored)
+-        ,Martial ,Swords ,Rapier                , 7 , 95 ,1        , 5 ,E   ,Effective(Armored) Effective(Cavalry)
+-        ,Martial ,Swords ,Devil Sword           ,13 , 65 ,1        ,10 ,D   ,Punishing(2)
+-        ,Martial ,Swords ,Wo Dao                , 8 , 90 ,1        , 5 ,B   ,Lucky(3)
+-        ,Martial ,Swords ,Sword of Seiros       ,11 , 80 ,1        , 6 ,A   ,Sacred(Seiros) Drain
+-        ,Martial ,Swords ,Sword of Begalta      ,12 ,100 ,1        , 5 ,A   ,Sacred(Riegan)
+-        ,Martial ,Swords ,Sword of Moralta      ,13 , 75 ,1        , 9 ,A   ,Sacred(Fraldarius)
+-        ,Martial ,Swords ,Cursed Ashiya Sword   ,13 , 70 ,1        , 8 ,B   ,Punishing(4) Lucky(4)
+-        ,Martial ,Swords ,Sword of Zoltan       ,13 , 90 ,1        , 9 ,A   ,
+-        ,Martial ,Swords ,Thunderbrand          ,13 , 70 ,1        , 7 ,A   ,Relic(Charon) Brave Art(Foudroyant)
+-        ,Magic   ,Swords ,Blutgang              ,13 , 80 ,1        , 7 ,A   ,Relic(Beast) Art(Beast Fang) Magic(Faith)
+-        ,Martial ,Swords ,Sword of the Creator  , 7 , 90 ,1~2      , 9 ,A   ,Relic(Flames) Art(Ruptured Heaven)
+-        ,Martial ,Swords ,Athame                , 6 , 90 ,1        , 5 ,C   ,Lucky(2)
+-        ,Magic   ,Swords ,Ridill                ,11 , 80 ,1~2      ,11 ,C   ,
+-        ,Martial ,Swords ,Dark Creator Sword    ,16 , 85 ,1~2      , 7 ,A   ,Relic(Flames) Art(Heaven's Fall)
+-        ,Martial ,Swords ,Venin Edge            , 5 , 90 ,1        , 6 ,C   ,Status(Poisoned)
+-        ,Martial ,Swords ,Mercurius             ,15 ,100 ,1        , 7 ,A   ,
++        ,Martial ,Swords ,Iron Sword+           , 6 ,100 ,1        , 5 ,E   ,
++        ,Martial ,Swords ,Steel Sword+          ,10 , 85 ,1        ,10 ,D   ,
++        ,Martial ,Swords ,Silver Sword+         ,13 , 90 ,1        , 8 ,B   ,
++        ,Martial ,Swords ,Brave Sword+          ,10 , 85 ,1        ,12 ,B   ,Brave
++        ,Martial ,Swords ,Killing Edge+         , 9 , 85 ,1        ,10 ,C   ,Lucky(3)
++        ,Martial ,Swords ,Training Sword+       , 3 ,100 ,1        , 2 ,E   ,
++        ,Magic   ,Swords ,Levin Sword+          , 9 , 70 ,1~3      , 9 ,C   ,Magic(Reason)
++        ,Martial ,Swords ,Armorslayer+          , 8 ,100 ,1        ,11 ,D   ,Effective(Armored)
++        ,Martial ,Swords ,Rapier+               , 9 , 95 ,1        , 5 ,E   ,Effective(Armored) Effective(Cavalry)
++        ,Martial ,Swords ,Devil Sword+          ,16 , 65 ,1        ,10 ,D   ,Punishing(2)
++        ,Martial ,Swords ,Wo Dao+               , 9 , 90 ,1        , 5 ,B   ,Lucky(4)
++        ,Martial ,Swords ,Cursed Ashiya Sword+  ,14 , 70 ,1        , 8 ,B   ,Punishing(4) Lucky(5)
++        ,Martial ,Swords ,Sword of Zoltan+      ,16 , 90 ,1        , 9 ,A   ,
++        ,Martial ,Swords ,Venin Edge+           , 6 ,100 ,1        , 6 ,C   ,Status(Poisoned)
++        ,Martial ,Swords ,Sword of the Creator+ ,15 , 90 ,1~2      , 7 ,A   ,Relic(Flames) Art(Sublime Heaven)
+-        ,Martial ,Lances ,Iron Lance            , 6 , 80 ,1        , 6 ,E   ,
+-        ,Martial ,Lances ,Steel Lance           , 9 , 75 ,1        ,11 ,D   ,
+-        ,Martial ,Lances ,Silver Lance          ,13 , 80 ,1        , 9 ,B   ,
+-        ,Martial ,Lances ,Brave Lance           ,10 , 70 ,1        ,13 ,B   ,Brave
+-        ,Martial ,Lances ,Killer Lance          , 9 , 80 ,1        ,11 ,C   ,Lucky(2)
+-        ,Martial ,Lances ,Training Lance        , 4 , 90 ,1        , 5 ,E   ,
+-        ,Martial ,Lances ,Javelin               , 2 , 80 ,1~2      , 8 ,D   ,
+-        ,Martial ,Lances ,Short Spear           , 5 , 75 ,1~2      ,10 ,C   ,
+-        ,Martial ,Lances ,Spear                 , 8 , 70 ,1~2      ,12 ,B   ,
+-        ,Martial ,Lances ,Horseslayer           , 8 , 70 ,1        ,13 ,D   ,Effective(Cavalry)
+-        ,Martial ,Lances ,Blessed Lance         , 7 , 80 ,1        ,14 ,C   ,Effective(Monster) Blessed(2)
+-        ,Martial ,Lances ,Crescent Sickle       ,10 , 80 ,1        ,12 ,B   ,
+-        ,Martial ,Lances ,Lance of Zoltan       ,15 , 80 ,1        ,10 ,A   ,
+-        ,Martial ,Lances ,Lance of Ruin         ,22 , 65 ,1        , 9 ,A   ,Relic(Gautier) Art(Ruined Sky) Lucky(2)
+-        ,Martial ,Lances ,Areadbhar             ,19 , 75 ,1        , 9 ,A   ,Relic(Blaiddyd) Art(Atrocity)
+-        ,Martial ,Lances ,Lúin                  ,17 , 90 ,1        , 9 ,A   ,Relic(Daphnel) Art(Fire Quake)
+-        ,Martial ,Lances ,Spear of Assal        ,14 , 85 ,1        , 9 ,A   ,Sacred(Cichol) Effective(Cavalry)
+-        ,Martial ,Lances ,Scythe of Sariel      ,10 ,100 ,1        , 6 ,A   ,Exclusive(Death Knight)
+-        ,Magic   ,Lances ,Arrow of Indra        ,12 , 75 ,1~2      ,14 ,C   ,Magic(Reason)
+-        ,Martial ,Lances ,Venin Lance           , 6 , 80 ,1        , 7 ,C   ,Status(Poisoned)
+-        ,Martial ,Lances ,Gradivus              ,17 , 90 ,1~2      , 8 ,A   ,
++        ,Martial ,Lances ,Iron Lance+           , 7 , 90 ,1        , 6 ,E   ,
++        ,Martial ,Lances ,Steel Lance+          ,11 , 75 ,1        ,11 ,D   ,
++        ,Martial ,Lances ,Silver Lance+         ,14 , 80 ,1        , 9 ,B   ,
++        ,Martial ,Lances ,Brave Lance+          ,11 , 80 ,1        ,13 ,B   ,Brave
++        ,Martial ,Lances ,Killer Lance+         ,10 , 80 ,1        ,11 ,C   ,Lucky(3)
++        ,Martial ,Lances ,Training Lance+       , 4 , 90 ,1        , 3 ,E   ,
++        ,Martial ,Lances ,Javelin+              , 3 , 80 ,1~2      , 8 ,D   ,
++        ,Martial ,Lances ,Short Spear+          , 6 , 75 ,1~2      ,10 ,C   ,
++        ,Martial ,Lances ,Spear+                , 9 , 70 ,1~2      ,12 ,B   ,
++        ,Martial ,Lances ,Horseslayer+          , 8 , 90 ,1        ,13 ,D   ,Effective(Cavalry)
++        ,Martial ,Lances ,Blessed Lance+        , 9 , 80 ,1        ,14 ,C   ,Effective(Monster) Blessed(2)
++        ,Martial ,Lances ,Crescent Sickle+      ,11 , 80 ,1        ,12 ,B   ,
++        ,Martial ,Lances ,Lance of Zoltan+      ,18 , 80 ,1        ,10 ,A   ,
++        ,Magic   ,Lances ,Arrow of Indra+       ,12 , 75 ,1~3      ,14 ,C   ,Magic(Reason)
++        ,Martial ,Lances ,Venin Lance+          , 7 , 90 ,1        , 7 ,C   ,Status(Poisoned)
+-        ,Martial ,Axes   ,Iron Axe              , 8 , 70 ,1        , 7 ,E   ,
+-        ,Martial ,Axes   ,Steel Axe             ,11 , 65 ,1        ,12 ,D   ,
+-        ,Martial ,Axes   ,Silver Axe            ,16 , 70 ,1        ,10 ,B
+-        ,Martial ,Axes   ,Brave Axe             ,12 , 60 ,1        ,14 ,B   ,Brave
+-        ,Martial ,Axes   ,Killer Axe            ,11 , 70 ,1        ,12 ,C   ,Lucky(2)
+-        ,Martial ,Axes   ,Training Axe          , 6 , 80 ,1        , 6 ,E   ,
+-        ,Magic   ,Axes   ,Bolt Axe              ,14 , 60 ,1~2      ,15 ,B   ,Magic(Reason)
+-        ,Martial ,Axes   ,Hand Axe              , 4 , 70 ,1~2      ,10 ,D   ,
+-        ,Martial ,Axes   ,Short Axe             , 8 , 65 ,1~2      ,12 ,C   ,
+-        ,Martial ,Axes   ,Tomahawk              ,12 , 60 ,1~2      ,14 ,B   ,
+-        ,Martial ,Axes   ,Hammer                ,10 , 60 ,1        ,15 ,D   ,Effective(Armoured)
+-        ,Martial ,Axes   ,Devil Axe             ,18 , 60 ,1        ,14 ,D   ,Punishing(4)
+-        ,Martial ,Axes   ,Freikugel             ,23 , 65 ,1        ,11 ,A   ,Relic(Goneril) Art(Apocalyptic Flame)
+-        ,Magic   ,Axes   ,Crusher               ,18 , 60 ,1        ,11 ,A   ,Relic(Dominic) Art(Dust) Magic(Reason)
+-        ,Martial ,Axes   ,Axe of Ukonvasara     ,19 , 65 ,1        ,15 ,A   ,Sacred(Gloucester) Effective(Armoured) Lucky(2)
+-        ,Martial ,Axes   ,Axe of Zoltan         ,17 , 70 ,1        ,14 ,A   ,Effective(Armoured)
+-        ,Martial ,Axes   ,Mace                  , 6 , 70 ,1        , 6 ,E   ,Effective(Armoured)
+-        ,Martial ,Axes   ,Aymr                  ,24 , 60 ,1        ,11 ,A   ,Relic(Seiros) Art(Raging Storm) Lucky(2)
+-        ,Martial ,Axes   ,Venin Axe             , 8 , 70 ,1        , 8 ,C   ,Status(Poisoned)
+-        ,Martial ,Axes   ,Hauteclere            ,19 , 80 ,1        ,12 ,A   ,
++        ,Martial ,Axes   ,Iron Axe+             , 9 , 80 ,1        , 7 ,E   ,
++        ,Martial ,Axes   ,Steel Axe+            ,13 , 65 ,1        ,12 ,D   ,
++        ,Martial ,Axes   ,Silver Axe+           ,17 , 70 ,1        ,10 ,B   ,
++        ,Martial ,Axes   ,Brave Axe+            ,13 , 70 ,1        ,14 ,B   ,Brave
++        ,Martial ,Axes   ,Killer Axe+           ,12 , 70 ,1        ,12 ,C   ,Lucky(3)
++        ,Martial ,Axes   ,Training Axe+         , 6 , 80 ,1        , 4 ,E   ,
++        ,Magic   ,Axes   ,Bolt Axe+             ,14 , 60 ,1~3      ,15 ,B   ,Magic(Reason)
++        ,Martial ,Axes   ,Hand Axe+             , 5 , 70 ,1~2      ,10 ,D   ,
++        ,Martial ,Axes   ,Short Axe+            , 9 , 65 ,1~2      ,12 ,C   ,
++        ,Martial ,Axes   ,Tomahawk+             ,13 , 60 ,1~2      ,14 ,B   ,
++        ,Martial ,Axes   ,Hammer+               ,10 , 80 ,1        ,15 ,D   ,Effective(Armoured)
++        ,Martial ,Axes   ,Devil Axe+            ,21 , 60 ,1        ,14 ,D   ,Punishing(4)
++        ,Martial ,Axes   ,Axe of Zoltan+        ,20 , 70 ,1        ,14 ,A   ,Effective(Armoured)
++        ,Martial ,Axes   ,Mace+                 , 6 , 90 ,1        , 6 ,E   ,Effective(Armoured)
++        ,Martial ,Axes   ,Venin Axe+            , 9 , 80 ,1        , 8 ,C   ,Status(Poisoned)
+-        ,Martial ,Bows   ,Iron Bow              , 6 , 85 ,2        , 6 ,E   ,Effective(Flying)
+-        ,Martial ,Bows   ,Steel Bow             , 9 , 80 ,2        ,11 ,D   ,Effective(Flying)
+-        ,Martial ,Bows   ,Silver Bow            ,12 , 75 ,2        , 9 ,B   ,Effective(Flying)
+-        ,Martial ,Bows   ,Brave Bow             ,10 , 70 ,2        ,13 ,B   ,Brave Effective(Flying)
+-        ,Martial ,Bows   ,Killer Bow            , 9 , 80 ,2        ,11 ,C   ,Effective(Flying) Lucky(2)
+-        ,Martial ,Bows   ,Training Bow          , 3 , 90 ,2        , 5 ,E   ,Effective(Flying)
+-        ,Magic   ,Bows   ,Magic Bow             , 8 , 75 ,2        , 9 ,B   ,Magic(Reason) Effective(Flying)
+-        ,Martial ,Bows   ,Longbow               , 9 , 70 ,2~3      ,13 ,C   ,Effective(Flying)
+-        ,Martial ,Bows   ,Mini Bow              , 4 , 90 ,1~2      , 3 ,D   ,
+-        ,Martial ,Bows   ,Blessed Bow           , 6 , 70 ,2        ,14 ,C   ,Effective(Monster) Effective(Flying)
+-        ,Martial ,Bows   ,Tathlum Bow           ,13 , 80 ,2        ,11 ,A   ,Sacred(Lamine). Effective(Flying)
+-        ,Martial ,Bows   ,The Inexhaustible     ,11 , 80 ,2        ,11 ,A   ,Sacred(Indech) Brave Effective(Flying)
+-        ,Martial ,Bows   ,Bow of Zoltan         ,13 , 75 ,2        , 8 ,A   ,Effective(Flying)
+-        ,Martial ,Bows   ,Failnaught            ,18 , 75 ,2~3      , 9 ,A   ,Relic(Riegan) Art(Falling Star) Effective(Flying) Lucky(2)
+-        ,Martial ,Bows   ,Venin Bow             , 6 , 85 ,2        , 6 ,C   ,Status(Poisoned) Effective(Flying)
+-        ,Martial ,Bows   ,Parthia               ,15 , 85 ,2        , 7 ,A   ,Effective(Flying)
++        ,Martial ,Bows   ,Iron Bow+             , 7 , 95 ,2        , 5 ,E   ,Effective(Flying)
++        ,Martial ,Bows   ,Steel Bow+            ,11 , 80 ,2        ,10 ,D   ,Effective(Flying)
++        ,Martial ,Bows   ,Silver Bow+           ,13 , 75 ,2        , 8 ,B   ,Effective(Flying)
++        ,Martial ,Bows   ,Brave Bow+            ,11 , 80 ,2        ,12 ,B   ,Brave Effective(Flying)
++        ,Martial ,Bows   ,Killer Bow+           ,10 , 80 ,2        ,11 ,C   ,Effective(Flying) Lucky(3)
++        ,Martial ,Bows   ,Training Bow+         , 3 , 90 ,2        , 3 ,E   ,Effective(Flying)
++        ,Magic   ,Bows   ,Magic Bow+            , 8 , 75 ,2~3      , 9 ,B   ,Magic(Reason) Effective(Flying)
++        ,Martial ,Bows   ,Longbow+              ,11 , 70 ,2~3      ,13 ,C   ,Effective(Flying)
++        ,Martial ,Bows   ,Mini Bow+             , 6 , 90 ,1~2      , 3 ,D   ,
++        ,Martial ,Bows   ,Blessed Bow+          , 8 , 70 ,2        ,14 ,C   ,Effective(Monster) Effective(Flying)
++        ,Martial ,Bows   ,Bow of Zoltan+        ,16 , 75 ,2        , 8 ,A   ,Effective(Flying)
++        ,Martial ,Bows   ,Venin Bow+            , 7 , 95 ,2        , 6 ,C   ,Status(Poisoned) Effective(Flying)
+-        ,Magic   ,Reason ,Fire                  , 3 , 90 ,1~2      , 3 ,E   ,
+-        ,Magic   ,Reason ,Bolganone             , 8 , 85 ,1~2      , 6 ,C   ,
+-        ,Magic   ,Reason ,Ragnarok              ,15 , 80 ,1~2      , 9 ,B   ,
+-        ,Magic   ,Reason ,Thunder               , 4 , 80 ,1~2      , 4 ,E   ,
+-        ,Magic   ,Reason ,Thoron                , 9 , 75 ,1~3      , 7 ,C   ,
+-        ,Magic   ,Reason ,Bolting               ,12 , 65 ,3~10     ,18 ,B   ,Complex Consumable(2)
+-        ,Magic   ,Reason ,Wind                  , 2 ,100 ,1~2      , 2 ,E   ,
+-        ,Magic   ,Reason ,Cutting Gale          , 7 , 95 ,1~2      , 5 ,C   ,
+-        ,Magic   ,Reason ,Excalibur             ,11 ,100 ,1~2      , 8 ,B   ,Effective(Flying)
+-        ,Magic   ,Reason ,Blizzard              , 3 , 70 ,1~2      , 4 ,E   ,
+-        ,Magic   ,Reason ,Fimbulvetr            ,12 , 65 ,1~2      ,10 ,B   ,Lucky(2)
+-        ,Magic   ,Reason ,Sagittae              , 7 , 90 ,1~2      , 6 ,C   ,
+-        ,Magic   ,Reason ,Meteor                ,10 , 80 ,3~10     ,19 ,B   ,Complex Consumable(2)
+-        ,Magic   ,Reason ,Agnea's Arrow         ,16 , 70 ,1~2      ,13 ,A   ,
+-        ,Magic   ,Dark   ,Miasma Δ              , 5 , 80 ,1~2      , 5 ,E   ,
+-        ,Magic   ,Dark   ,Mire Β                , 3 , 70 ,1~3      , 5 ,E   ,Inflict(Def-5)
+-        ,Magic   ,Dark   ,Swarm Ζ               , 4 , 70 ,1~2      , 4 ,E   ,Inflict(Spd-5)
+-        ,Magic   ,Dark   ,Banshee Θ             , 9 , 75 ,1~2      , 9 ,C   ,Status(Slowed)
+-        ,Magic   ,Dark   ,Death Γ               , 6 , 70 ,1~3      , 8 ,C   ,Lucky(2)
+-        ,Magic   ,Dark   ,Luna Λ                , 1 , 65 ,1~2      , 7 ,C   ,Piercing
+-        ,Magic   ,Dark   ,Dark Spikes Τ         ,13 , 80 ,1~2      ,11 ,B   ,Effective(Cavalry)
+-        ,Magic   ,Dark   ,Hades Ω               ,18 , 65 ,1~2      ,16 ,A   ,
+-        ,Magic   ,Dark   ,Bohr Χ                ,10 , 60 ,3~10     ,20 ,B   ,Devastate Complex Consumable(2)
+-        ,Magic   ,Dark   ,Quake Σ               , 8 , 50 ,All      ,20 ,B   ,AoE Ineffective(Flying) Complex Consumable(2)
+-        ,Magic   ,Faith  ,Heal                  , 0 ,100 ,1        , 0 ,E   ,Heal(5)
+-        ,Magic   ,Faith  ,Recover               , 0 ,100 ,1        , 0 ,C   ,Heal(10)
+-        ,Magic   ,Faith  ,Physic                , 0 ,100 ,1~Mag/A  , 0 ,C   ,Heal(5)
+-        ,Magic   ,Faith  ,Fortify               , 0 ,100 ,1~Mag/B  , 0 ,A   ,AoE Heal(5)
+-        ,Magic   ,Faith  ,Nosferatu             , 1 , 80 ,1~2      , 8 ,E   ,Drain
+-        ,Magic   ,Faith  ,Seraphim              , 8 , 75 ,1~2      ,10 ,C   ,Effective(Monster)
+-        ,Magic   ,Faith  ,Aura                  ,12 , 70 ,1~2      ,12 ,B   ,Lucky(2)
+-        ,Magic   ,Faith  ,Abraxas               ,14 , 90 ,1~2      ,13 ,A   ,
+-        ,Magic   ,Faith  ,Torch                 , 0 ,100 ,1~2      , 0 ,E   ,Torch(Str)
+-        ,Magic   ,Faith  ,Restore               , 0 ,100 ,1~/Mag/B , 0 ,C   ,Restore
+-        ,Magic   ,Faith  ,Ward                  , 0 ,100 ,1        , 0 ,C   ,Status(Barrier)
+-        ,Magic   ,Faith  ,Silence               , 0 ,100 ,3~10     , 0 ,B   ,Status(Silenced)
+-        ,Magic   ,Faith  ,Rescue                , 0 ,100 ,1~Mag/C  , 0 ,B   ,Rescue
+-        ,Magic   ,Faith  ,Warp                  , 0 ,100 ,1~Mag/D  , 0 ,B   ,Warp

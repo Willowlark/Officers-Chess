@@ -1,0 +1,64 @@
+Class               ,HP ,Str ,Mag ,Skl ,Spd ,Def ,Res ,Wield              ,Tags                          ,Rank         
+Lord                , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords OR Lances   ,                              ,Intermediate
+Tactician           , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Reason      ,                              ,Intermediate
+Cavalier            , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Lances      ,Canto Cavalry Fast(1)         ,Intermediate
+Knight              , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Lances             ,Armored Slow(1)               ,Intermediate
+Soldier             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Lances             ,                              ,Beginner    
+Myrmidon            , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords             ,Lucky(10)                      ,Beginner    
+Mercenary           , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords             ,                              ,Intermediate
+Fighter             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes               ,                              ,Intermediate
+Brigand             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes               ,                              ,Beginner    
+Archer              , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Bows               ,                              ,Intermediate
+Thief               , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords             ,Pick                          ,Intermediate
+Pegasus Knight      , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Lances             ,Canto Fast(1) Flying          ,Intermediate
+Wyvern Rider        , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes               ,Canto Dragon Fast(1) Flying   ,Intermediate
+Mage                , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Reason             ,                              ,Intermediate
+Dark Mage           , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Dark               ,                              ,Intermediate
+Priest              , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Faith              ,                              ,Intermediate
+Troubadour          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Faith              ,Canto Cavalry Fast(1)         ,Intermediate
+Great Lord          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Lances      ,                              ,Advanced     
+Grandmaster         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Reason      ,                              ,Advanced     
+Paladin             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Lances      ,Canto Cavalry Fast(1)         ,Advanced     
+Great Knight        , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Lances Axes ,Armored Canto Cavalry Fast(1) ,Advanced     
+General             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Lances Axes        ,Armored Slow(1)               ,Advanced     
+Swordmaster         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords             ,Lucky(20)                      ,Advanced     
+Hero                , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Axes        ,                              ,Advanced     
+Warrior             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes Bows          ,                              ,Advanced     
+War Master          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes               ,Lucky(10)                      ,Advanced     
+Sniper              , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Bows               ,                              ,Advanced     
+Bow Knight          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Bows        ,Canto Cavalry Fast(1)         ,Advanced     
+Assassin            , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords             ,Assassinate                   ,Advanced     
+Trickster           , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Faith       ,                              ,Advanced     
+Falcon Knight       , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Lances      ,Canto Fast(1) Flying          ,Advanced     
+Dark Flier          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Lances Reason      ,Canto Fast(1) Flying          ,Advanced     
+Wyvern Lord         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Lances Axes        ,Canto Dragon Fast(1) Flying   ,Advanced     
+Griffon Rider       , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes               ,Canto Fast(1) Flying          ,Advanced    
+Warlock             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Reason             ,                              ,Advanced     
+Dark Bishop         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Dark               ,                              ,Advanced     
+Dark Knight         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Reason      ,Canto Cavalry Fast(1)         ,Advanced     
+Bishop              , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Faith              ,Effective(Monster)            ,Advanced     
+War Cleric          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes Faith         ,                              ,Advanced     
+Holy Knight         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Faith              ,Canto Cavalry Fast(1)         ,Advanced     
+Villager            , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Lances             ,                              ,Beginner    
+Dancer              , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords             ,Dance                         ,Advanced     
+Taguel (Normal)     , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Stones             ,Shifter                       ,Advanced     
+Taguel (Beast)      , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Stones             ,Shifter                       ,Advanced    
+Taguel (Beast+)     , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Stones             ,Shifter                       ,Advanced     
+Manakete (Normal)   , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Stones             ,Dragon Shifter                ,Advanced     
+Manakete (Dragon)   , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Stones             ,Dragon Shifter                ,Advanced     
+Manakete (Dragon+)  , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Stones             ,Dragon Shifter                ,Advanced    
+Revenant            , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Beginner    
+Entombed            , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Intermediate
+Grima               , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Dragon Monster                ,Boss        
+Necromancer         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Dark Faith         ,                              ,Advanced    
+Wight (Sword/Lance) , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Swords Lances      ,Monster                       ,Advanced    
+Wight (Bow)         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Bows               ,Monster                       ,Advanced    
+Elder Bael          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Advanced    
+Cyclops             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes               ,Monster                       ,Advanced    
+Gwyllgi             , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Advanced    
+Maelduin            , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Axes Bows          ,Canto Cavalry Monster         ,Advanced    
+Arch Mogall         , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Advanced    
+Gorgon              , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Advanced    
+Deathgoyle          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Advanced    
+Draco Zombie        , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Advanced    
+Demon King          , 0 ,  0 ,  0 ,  0 ,  0 ,  0 ,  0 ,Monster            ,Monster                       ,Boss        

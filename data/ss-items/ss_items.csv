@@ -1,0 +1,38 @@
+Angelic Robe,Angelic Robe,1,8000,Permanently raises HP by 7 points
+Energy Ring,Energy Ring,1,8000,Permanently raises Strength/Magic by 2 points
+Secret Book,Secret Book,1,8000,Permanently raises Skill  by 2 points
+Speedwing,Speedwing,1,8000,Permanently raises Speed by 2 points
+Goddess Icon,Goddess Icon,1,8000,Permanently raises Luck by 2 points
+Dragonshield,Dragonshield,1,8000,Permanently raises Defence by 2 points
+Talisman,Talisman,1,8000,Permanently raises Resistance by 2 points
+Swiftsole,Swiftsole,1,8000,Permanently raises Movement by 2 points
+Body Ring,Body Ring,1,8000,Permanently raises Constitution by 2 points
+Hero Crest,Hero Crest,1,10000,Class change item for Myrmidons; Fighters and Mercenaries
+Knight Crest,Knight Crest,1,10000,Class change item for Cavaliers and Knights
+Orion's Bolt,Orion’s Bolt,1,10000,Class change item for Archers
+Elysian Whip,Elysian Whip,1,10000,Class change item for Pegasus Knights and Wyvern Riders
+Guiding Ring,Guiding Ring,1,10000,Class change item for Mages; Shamans; Priests; Clerics; Monks and Troubadours
+Chest Key,Chest Key,1,300,Opens a chest
+Door Key,Door Key,1,50,Opens a door
+Lockpick,Lockpick,15,1200,Opens chests and doors. Thieves; Assassins and Rogues only
+Vulnerary,Vulnerary,3,300,Recovers HP by 10 points
+Elixir,Elixir,3,3000,Fully recovers HP
+Pure Water,Pure Water,3,900,Temporary raises resistance by 7 points. Effect decreases by 1 each turn
+Antitoxin,Antitoxin,3,350,Cures the poison status
+Torch,Torch,5,500,Increases user’s sight in fog of war. Effect decreases by 1 each turn
+Fili Shield,Fili Shield,–,10000,Negates effective bonus of bows and wind magic towards user
+Member Card,Member Card,1,6000,Lets the user enter secret shops
+Silver Card,Silver Card,1,4000,User can buy items for half price
+White Gem,White Gem,1,20000,Can be sold for 10000G
+Blue Gem,Blue Gem,1,10000,Can by sold for 5000G
+Red Gem,Red Gem,1,5000,Can be sold for 2500G
+Hoplon Guard,Hoplon Guard,–,5000,User is immune to critical attacks
+Master Seal,Master Seal,1,20000,Class change item for all normal classes; except the Lords
+Metis's Tome,Metis’s Tome,1,–,Permanently raises all of the user’s growth rates by 5
+Ocean Seal,Ocean Seal,1,10000,Class change item for Thieves and Pirates
+Lunar Brace,Lunar Brace,1,–,Class changes Eirika to a Master Lord
+Solar Brace,Solar Brace,1,–,Class changes Ephraim to a Master Lord
+Juna Fruit,Juna Fruit,1,–,Permanently lowers the user’s Level by 1-5 points. Can only be used by units Level 9 or over (Cannot be obtained without codes.)
+Dragonstone,Dragonstone,50,–,Myrrh only; effective against monsters. Strength +12; Skill +12; Defence +15; Resistance +20. Stats: Might 16; Accuracy 100; Weight 0; Critical 15; Weapon EXP 0
+Black Gem,Black Gem,1,30000,Can be sold for 15000G
+Gold Gem,Gold Gem,1,40000,Can be sold for 20000G

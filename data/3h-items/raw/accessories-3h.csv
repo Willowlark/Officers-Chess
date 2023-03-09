@@ -1,0 +1,42 @@
+Name,Protect,Weight,Description (Comments)
+Leather Shield,1,1,-
+Iron Shield,2,2,-
+Steel Shield,3,3,-
+Silver Shield,4,4,-
+Talisman Shield,1,4,Resilience +2.
+Hexlock Shield,2,5,Resilience +4.
+Aegis Shield,6,6,Relic shield. Resilience +3 may halve damage for Crest of Fraldarius.
+Ochain Shield,6,4,Sacred shield (Cichol); restores HP each turn and negates foe's critical hits.
+Seiros Shield,5,3,Sacred shield (Seiros); restores HP each turn and halves damage from Monsters.
+Aurora Shield,3,0,Nullifies user's Flying-type weakness.
+Kadmos Shield,3,0,Nullifies user's Armoured-type weakness.
+Lampos Shield,3,0,Nullifies user's Cavalry-type weakness.
+Accuracy Ring,0,0,Hit rate +10.
+Critical Ring,0,0,Critical rate +5.
+Evasion Ring,0,0,Avoid +10.
+Speed Ring,0,0,Speed +2.
+March Ring,0,0,Movement +1.
+Goddess Ring,0,0,Luck +8; restores HP each turn.
+Prayer Ring,0,0,Grants Miracle ability; restores HP each turn.
+Magic Staff,0,1,Increases Might of magic spells by 3.
+Healing Staff,0,1,Increases Healing power by 10.
+Caduceus Staff,0,1,Sacred staff (Cethleann); offensive magic range +1 restores HP each turn.
+Thyrsus,0,1,Relic staff (Gloucester); offensive magic range +2 may halve damage received.
+Rafail Gem,0,0,Relic gem (Lamine); nullifies user's class-type weaknesses prevents foe's critical hits and may halve damage received.
+Experience Gem,0,0,Base experience points +50%.
+Knowledge Gem,0,0,Base skill level experience +100%.
+Circe Staff,0,1,Solon only.
+Tomas's Staff,0,0,Tomas only.
+Armored Soldier Shield,0,0,-
+Armored Knight Shield,0,0,-
+Fortress Soldier Shield,0,0,-
+Asclepius,3,1,Agarthan origin; restores HP each turn.
+Dark Aegis Shield,10,6,Replica; Resilience +10 may halve damage for Crest of Fraldarius.
+Flame Shield,0,0,-
+Emperor Shield,0,0,-
+Black Eagle Pendant,0,0,Charm +2.
+Blue Lion Brooch,0,0,Charm +2.
+Golden Deer Bracelet,0,0,Charm +2.
+White Dragon Scarf,0,0,Charm +2.
+Chalice of Beginnings,0,0,Nullifies user's class-type weaknesses and enables user to counter-attack regardless of range.
+Fetters of Dromi,0,0,Relic ring (Aubin); Movement +1 user can continue moving after taking certain actions and may halve damage received.

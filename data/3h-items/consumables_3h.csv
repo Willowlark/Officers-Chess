@@ -1,0 +1,8 @@
+Name,Tags
+Vulnerary,Heal(5) Consumable(1)
+Concoction,Heal(10) Consumable(1)
+Elixir,Heal(20) Consumable(1)
+Torch,Torch(10) Consumable(1)
+Antitoxin,Restore Consumable(1)
+Pure Water,Status(Barrier) Consumable(1)
+Master Key,Pick Consumable(1)

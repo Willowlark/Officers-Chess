@@ -1,0 +1,108 @@
+Name,Rank,Rng,Wt,Mt,Hit,Crt,Uses,WEx,Worth,Effects
+Slim Sword,E,1,2,3,100,5,30,1,480,-
+Iron Sword,E,1,5,5,90,0,46,1,460,-
+Steel Sword,D,1,10,8,75,0,30,1,600,-
+Silver Sword,A,1,8,13,80,0,20,1,1500,-
+Iron Blade,D,1,12,9,70,0,35,2,980,-
+Steel Blade,C,1,14,11,65,0,25,2,980,-
+Silver Blade,A,1,13,14,60,0,15,2,1800,-
+Poison Sword,D,1,6,3,70,0,40,1,-,Poisons on contact
+Rapier,*,1,5,7,95,10,40,2,-,Eirika only; effective against horseback and armoured units
+Brave Sword,B,1,12,9,75,0,30,1,7500,Allows 2 consecutive hits
+Shamshir,D,1,5,8,75,35,20,1,1200,Myrmidons/Swordmasters/Assassins; Eirika; Bonewalkers/Wights only
+Killing Edge,C,1,7,9,75,30,20,1,1300,-
+Armourslayer,D,1,11,8,80,0,18,1,1260,Effective against armoured units
+Wyrmslayer,C,1,5,8,75,0,30,1,4500,Effective against dragon units
+Light Brand,C,1~2,9,9,70,0,25,1,1250,Magic Sword (Light) at range
+Runesword,A,1~2,11,12,65,0,15,1,3300,Magic Sword (Dark); drains HP from enemy
+Lancereaver,C,1,9,9,75,5,15,2,1800,Good against Lances; bad against Axes
+Zanbato,D,1,11,6,85,0,18,1,1260,Effective against horseback units
+Shadowkiller,E,1,5,5,90,5,60,1,-,Effective against monsters (Cannot be obtained without codes.)
+Sieglinde,*,1,9,16,90,0,30,1,-,Eirika only; Strength +5; effective against monsters
+Audhulma,S,1,9,18,85,0,30,1,-,Resistance +5; effective against monsters
+Wind Sword,B,1~2,9,9,70,0,40,1,8000,Magic Sword (Anima). Effective against flying units
+Iron Lance,E,1,8,7,80,0,45,1,360,-
+Slim Lance,E,1,4,4,85,5,30,1,420,-
+Steel Lance,D,1,13,10,70,0,30,2,480,-
+Silver Lance,A,1,10,14,75,0,20,1,1200,-
+Toxin Lance,E,1,8,4,65,0,40,1,-,Poisons on contact
+Brave Lance,B,1,14,10,70,0,30,1,7500,Allows 2 consecutive hits
+Killer Lance,C,1,9,10,70,30,20,1,1200,-
+Horseslayer,D,1,13,7,70,0,16,1,1040,Effective against horseback units
+Javelin,E,1~2,11,6,65,0,20,1,400,-
+Spear,B,1~2,10,12,70,5,15,1,9000,-
+Axereaver,C,1,11,10,70,5,15,2,1950,Good against axes; bad against swords
+Reginleif,Prf,1,8,10,80,10,45,2,7200,Ephraim only; effective against horseback and armoured units
+Bright Lance,E,1,8,7,80,5,60,1,-,Effective against monsters (Cannot be obtained without codes.)
+Dragonspear,C,1,8,10,70,0,30,1,4500,Effective against dragon units
+Vidofnir,S,1,11,15,85,0,30,1,-,Defence +5; effective against monsters
+Siegmund,Prf,1,11,17,80,0,30,1,-,Ephraim only; Strength +5; effective against monsters
+Heavy Spear,D,1,14,9,70,0,16,1,1200,Effective against armoured units
+Short Spear,C,1~2,12,9,60,0,18,1,900,-
+Iron Axe,E,1,10,8,75,0,45,1,270,-
+Steel Axe,E,1,15,11,65,0,30,2,360,-
+Silver Axe,A,1,12,15,70,0,20,1,1000,-
+Poison Axe,D,1,10,4,60,0,40,1,-,Poisons on contact
+Brave Axe,B,1,16,10,65,0,30,1,7500,Allows 2 consecutive hits
+Killer Axe,C,1,11,11,65,30,20,1,1000,-
+Halberd,D,1,15,10,60,0,18,1,810,Effective against horseback units
+Hammer,D,1,15,10,55,0,20,2,800,Effective against armoured units
+Devil Axe,E,1,18,18,55,0,20,8,880,User may damage themselves
+Hand Axe,E,1~2,12,7,60,0,20,1,300,-
+Tomahawk,A,1~2,14,13,65,0,15,1,3000,-
+Swordreaver,C,1,13,11,65,5,15,2,2100,Good against swords; bad against lances
+Swordslayer,C,1,13,11,80,5,20,1,2000,Good against swords; bad against lances Effective against sword fighting units
+Hatchet,E,1~2,5,4,85,0,50,1,-,-
+Dragon Axe,C,1,11,12,60,0,30,1,4500,Effective against dragon units
+Fiendcleaver,E,1,10,8,75,5,60,1,-,Effective against monsters (Cannot be obtained without codes.)
+Battle Axe,B,1,15,13,60,5,20,1,1000,-
+Garm,S,1,13,20,75,0,30,1,-,Speed +5; effective against monsters
+Iron Bow,E,2,5,6,85,0,45,1,540,-
+Steel Bow,D,2,9,9,70,0,30,1,720,-
+Silver Bow,A,2,6,13,75,0,20,1,1600,-
+Poison Bow,D,2,5,4,65,0,40,1,-,Poisons on contact
+Killer Bow,C,2,7,9,75,30,20,1,1400,-
+Brave Bow,B,2,12,10,70,0,30,1,7500,Allows 2 consecutive hits
+Short Bow,D,2,3,5,85,10,22,2,1760,-
+Longbow,D,2~3,10,5,65,0,20,1,2000,-
+Ballista,E,3~10,20,8,60,0,5,4,-,Usable by Archers/Snipers/Fleets only
+Iron Ballista,E,3~15,20,13,60,0,5,4,-,Usable by Archers/Snipers/Fleets only
+Killer Ballista,E,3~10,20,12,65,10,5,4,-,Usable by Archers/Snipers/Fleets only
+Beacon Bow,E,2,5,6,85,5,60,1,-,Effective against monsters(Cannot be obtained without codes)
+Nidhogg,S,2,7,18,80,0,30,1,-,Luck +5; effective against monsters
+Fire,E,1~2,4,5,90,0,40,1,560,-
+Thunder,D,1~2,6,8,80,5,35,1,700,-
+Elfire,C,1~2,10,10,85,0,30,2,1200,-
+Bolting,B,3~10,20,12,60,0,5,1,2500,-
+Fimbulvetr,A,1~2,12,13,80,0,20,1,6000,-
+Excalibur,S,1~2,13,18,90,10,30,1,-,Speed +5; effective against monsters
+Alacalibur,B,1~2,2,8,85,0,20,1,1100,Effective against flying units (Cannot be obtained without using codes)
+Flux,D,1~2,8,7,80,0,45,1,900,-
+Luna,C,1~2,12,0,50,10,30,1,4200,Ignores the enemy’s resistance
+Nosferatu,C,1~2,14,10,70,0,20,1,3200,User recovers HP equal to damage done
+Eclipse,B,3~10,12,0,30,0,5,8,4000,Halves the enemy’s current HP
+Fenrir,A,1~2,18,15,70,0,20,1,9000,-
+Gleipnir,S,1~2,20,23,80,0,30,3,-,Skill +5
+Naglfar,S,1~2,18,25,95,0,-,1,-,-
+Lightning,E,1~2,6,4,95,5,35,1,630,-
+Shine,D,1~2,8,6,90,8,30,2,900,-
+Divine,C,1~2,12,8,85,10,25,1,2500,-
+Purge,B,3~10,20,10,75,5,5,3,3000,-
+Aura,A,1~2,15,12,85,15,20,1,8000,-
+Ivaldi,S,1~2,10,17,90,5,30,1,-,Defence +5; effective against monsters
+Wretched Air,-,1~2,0,10,100,0,-,0,-,Strength +10; Skill +10; Defence +20; Resistance +10. Ignores the enemy’s defence
+Nightmare,Staff -,1~3,(8),0,(70),-,1,0,-,Can send all enemies; in range; to sleep.
+Demon Light,-,1~3,0,15,60,0,-,0,-,Magic+10; Skill +10; Luck +10; Defence +10; Resistance +15
+Ravager,-,1,0,15,85,10,-,0,-,Strength +15; Skill +15 Defence +15; Resistance +10
+Demon Surge,Dark -,1~2,10,11,80,0,-,0,-,-
+Shadowshot,Dark -,3~10,20,13,70,5,-,0,-,-
+Sharp Claw,-,1,14,14,65,0,-,0,-,-
+Rotten Claw,-,1,8,7,80,0,-,0,-,-
+Fetid Claw,-,1,10,12,75,0,-,0,-,-
+Poison Claw,-,1,10,6,65,0,-,0,-,Poisons on contact
+Lethal Talon,-,1,12,10,60,0,-,0,-,Poisons on contact
+Fiery Fang,-,1,5,5,90,0,-,0,-,-
+Hellfang,-,1,8,13,80,0,-,0,-,-
+Evil Eye,Dark -,1~2,6,7,85,0,-,0,-,-
+Crimson Eye,Dark -,1~2,13,14,70,5,-,0,-,-
+Stone,Dark -,1~3,8,0,65,0,5,5,-,Petrifies the enemy; making them unable to move/fight and prone to critical attacks

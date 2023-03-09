@@ -1,0 +1,28 @@
+Promo,Total,Class,HP,Str,Mag,Dex,Spd,Def,Res
+Pro,22,High Priest,D,D,A,C,C,D,A
+Pro,22,Sage,D,E,A,B,C,D,A
+Pro,22,Griffin Knight,C,C,D,C,B,C,B
+Pro,22,Paladin,C,C,E,B,C,B,B
+Pro,22,Martial Master,C,B,C,C,D,C,B
+Base,18,Mage,E,E,B,B,C,E,B
+Base,18,Monk,E,C,B,C,D,E,B
+Pro,22,Bow Knight,C,B,D,B,C,C,C
+Base,18,Thief,E,D,E,B,B,C,C
+Pro,22,Royal,C,B,C,C,C,C,C
+Pro,22,Wolf,C,C,D,A,B,D,C
+Pro,22,Mage Knight,C,C,B,C,C,C,C
+Base,18,Flier,D,C,D,C,C,D,C
+Base,18,Dancer,D,C,D,D,A,E,C
+Pro,22,Great Knight,B,B,E,C,C,A,D
+Pro,22,Wyvern,B,A,E,B,D,B,D
+Base,18,Cavalier,C,C,E,C,C,C,D
+Base,18,Fighter,B,C,E,C,D,C,D
+Pro,22,Swordmaster,D,B,D,A,A,D,D
+Pro,22,Sniper,C,A,E,A,B,D,D
+Pro,22,Warrior,A,A,E,C,B,D,D
+Base,18,Archer,C,C,E,B,C,D,D
+Pro,22,Hero,B,B,E,B,C,B,D
+Pro,22,General,A,A,E,C,D,A,E
+Base,18,Armor,B,B,E,D,E,A,E
+Pro,22,Halberdier,B,B,D,B,C,B,E
+Pro,22,Berserker,A,A,E,B,A,E,E

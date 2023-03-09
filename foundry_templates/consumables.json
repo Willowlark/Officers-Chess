@@ -1,0 +1,190 @@
+{
+    "name": "Elixir",
+    "type": "equippableItem",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "hidden": [],
+        "header": {
+            "contents": [],
+            "cssClass": null,
+            "role": 0,
+            "permission": 0,
+            "tooltip": null,
+            "flow": null,
+            "align": null,
+            "type": "panel"
+        },
+        "body": {
+            "contents": [
+                {
+                    "key": "infopanel",
+                    "cssClass": "",
+                    "role": "0",
+                    "permission": "0",
+                    "tooltip": "",
+                    "contents": [
+                        {
+                            "key": "wpname",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "label": "Name",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        },
+                        {
+                            "key": "wpclass",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "label": "Class",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "options": [
+                                {
+                                    "key": "swords",
+                                    "value": "Swords"
+                                },
+                                {
+                                    "key": "axes",
+                                    "value": "Axes"
+                                },
+                                {
+                                    "key": "lances",
+                                    "value": "Lances"
+                                },
+                                {
+                                    "key": "bows",
+                                    "value": "Bows"
+                                },
+                                {
+                                    "key": "anima",
+                                    "value": "Anima"
+                                },
+                                {
+                                    "key": "light",
+                                    "value": "Light"
+                                },
+                                {
+                                    "key": "dark",
+                                    "value": "Dark"
+                                }
+                            ],
+                            "tableKey": null,
+                            "tableKeyColumn": null,
+                            "tableLabelColumn": null,
+                            "type": "label",
+                            "style": "label",
+                            "value": "Accessory",
+                            "prefix": "",
+                            "suffix": "",
+                            "icon": "",
+                            "rollMessage": "",
+                            "altRollMessage": ""
+                        }
+                    ],
+                    "flow": "horizontal",
+                    "align": "center",
+                    "type": "panel"
+                },
+                {
+                    "key": "statspanel",
+                    "cssClass": "",
+                    "role": "0",
+                    "permission": "0",
+                    "tooltip": "",
+                    "contents": [
+                        {
+                            "key": "wptags",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "label": "Tags",
+                            "defaultValue": "",
+                            "size": "large",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        },
+                        {
+                            "key": "cost",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "label": "Cost",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "allowDecimal": false,
+                            "minVal": "",
+                            "maxVal": "",
+                            "allowRelative": false,
+                            "showControls": false,
+                            "type": "numberField"
+                        }
+                    ],
+                    "flow": "horizontal",
+                    "align": "left",
+                    "type": "panel"
+                }
+            ],
+            "cssClass": null,
+            "role": 0,
+            "permission": 0,
+            "tooltip": null,
+            "flow": null,
+            "align": null,
+            "type": "panel"
+        },
+        "display": {
+            "width": "600",
+            "height": "600",
+            "fix_size": false,
+            "pp_width": "64",
+            "pp_height": "64"
+        },
+        "template": "huITAl1CqepRQfgk",
+        "props": {
+            "wpname": "Elixir",
+            "wptags": "Heal(20) Consumable(1)",
+            "weight": "0",
+            "cost": "210"
+        },
+        "modifiers": [
+            {
+                "priority": 0,
+                "key": "totalcost",
+                "operator": "add",
+                "formula": "${cost}$"
+            }
+        ],
+        "unique": false
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0,
+        "uq5xdVlxrWSzTiGc": 3
+    },
+    "flags": {
+        "custom-system-builder": {
+            "version": "2.1.0"
+        }
+    },
+    "_stats": {
+        "systemId": "custom-system-builder",
+        "systemVersion": "2.1.0",
+        "coreVersion": "10.291",
+        "createdTime": 1672679645337,
+        "modifiedTime": 1672680367171,
+        "lastModifiedBy": "uq5xdVlxrWSzTiGc"
+    },
+    "_id": "SO7u2MwtThydbskZ"
+}

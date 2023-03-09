@@ -1,0 +1,128 @@
+DmgType ,Type    ,Name            ,Rng     ,Mt ,Wt ,Tags
+Martial ,Swords  ,Slim Sword      ,1       , 3 , 2 ,
+Martial ,Swords  ,Iron Sword      ,1       , 5 , 5 ,
+Martial ,Swords  ,Steel Sword     ,1       , 8 ,10 ,
+Martial ,Swords  ,Silver Sword    ,1       ,13 , 8 ,
+Martial ,Swords  ,Iron Blade      ,1       , 9 ,12 ,
+Martial ,Swords  ,Steel Blade     ,1       ,11 ,14 ,
+Martial ,Swords  ,Silver Blade    ,1       ,14 ,13 ,
+Martial ,Swords  ,Poison Sword    ,1       , 3 , 6 ,Status(Poison)
+Martial ,Swords  ,Rapier          ,1       , 7 , 5 ,Effective(Cavalry) Effective(Armored) Exclusive(Lord)
+Martial ,Swords  ,Brave Sword     ,1       , 9 ,12 ,Brave
+Martial ,Swords  ,Shamshir        ,1       , 8 , 5 ,Exclusive(Myrmidon) Exclusive(Swordmaster) Exclusive(Assassin) Lucky(20)
+Martial ,Swords  ,Killing Edge    ,1       , 9 , 7 ,Lucky(20)
+Martial ,Swords  ,Armourslayer    ,1       , 8 ,11 ,Effective(Armored)
+Martial ,Swords  ,Wyrmslayer      ,1       , 8 , 5 ,Effective(Dragon)
+Martial ,Swords  ,Faith Brand     ,1~2     , 9 , 9 ,Magic(Faith)
+Martial ,Swords  ,Runesword       ,1~2     ,12 ,11 ,Magic(Dark) Drain
+Martial ,Swords  ,Lancereaver     ,1       , 9 , 9 ,Inverted
+Martial ,Swords  ,Zanbato         ,1       , 6 ,11 ,Effective(Cavalry)
+Martial ,Swords  ,Shadowkiller    ,1       , 5 , 5 ,Effective(Monster)
+Martial ,Swords  ,Sieglinde       ,1       ,18 , 9 ,Effective(Monster) Legendary
+Martial ,Swords  ,Audhulma        ,1       ,18 , 9 ,Bonus(Def+1) Effective(Monster) Legendary
+Martial ,Swords  ,Wind Sword      ,1~2     , 9 , 9 ,Magic(Reason) Effective(Flying)
+Martial ,Lances  ,Slim Lance      ,1       , 4 , 4 ,
+Martial ,Lances  ,Iron Lance      ,1       , 7 , 8 ,
+Martial ,Lances  ,Steel Lance     ,1       ,10 ,13 ,
+Martial ,Lances  ,Silver Lance    ,1       ,14 ,10 ,
+Martial ,Lances  ,Toxin Lance     ,1       , 4 , 8 ,Status(Poison)
+Martial ,Lances  ,Brave Lance     ,1       ,10 ,14 ,Brave
+Martial ,Lances  ,Killer Lance    ,1       ,10 , 9 ,Lucky(20)
+Martial ,Lances  ,Horseslayer     ,1       , 7 ,13 ,Effective(Cavalry)
+Martial ,Lances  ,Javelin         ,1~2     , 6 ,11 ,
+Martial ,Lances  ,Spear           ,1~2     ,12 ,10 ,
+Martial ,Lances  ,Axereaver       ,1       ,10 ,11 ,Inverted
+Martial ,Lances  ,Reginleif       ,1       ,10 , 8 ,Effective(Cavalry) Effective(Armored) Exclusive(Lord) 
+Martial ,Lances  ,Bright Lance    ,1       , 7 , 8 ,Effective(Monster)
+Martial ,Lances  ,Dragonspear     ,1       ,10 , 8 ,Effective(Dragon)
+Martial ,Lances  ,Vidofnir        ,1       ,15 ,11 ,Bonus(Def+1) Effective(Monster) Legendary
+Martial ,Lances  ,Siegmund        ,1       ,21 ,11 ,Effective(Monster) Legendary
+Martial ,Lances  ,Heavy Spear     ,1       , 9 ,14 ,Effective(Armored)
+Martial ,Lances  ,Short Spear     ,1~2     , 9 ,12 ,
+Martial ,Axes    ,Iron Axe        ,1       , 8 ,10 ,
+Martial ,Axes    ,Steel Axe       ,1       ,11 ,15 ,
+Martial ,Axes    ,Silver Axe      ,1       ,15 ,12 ,
+Martial ,Axes    ,Poison Axe      ,1       , 4 ,10 ,Status(Poison)
+Martial ,Axes    ,Brave Axe       ,1       ,10 ,16 ,Brave
+Martial ,Axes    ,Killer Axe      ,1       ,11 ,11 ,Lucky(20)
+Martial ,Axes    ,Halberd         ,1       ,10 ,15 ,Effective(Calvary)
+Martial ,Axes    ,Hammer          ,1       ,10 ,15 ,Effective(Armored)
+Martial ,Axes    ,Devil Axe       ,1       ,18 ,18 ,Devil
+Martial ,Axes    ,Hand Axe        ,1~2     , 7 ,12 ,
+Martial ,Axes    ,Tomahawk        ,1~2     ,13 ,14 ,
+Martial ,Axes    ,Swordreaver     ,1       ,11 ,13 ,Inverted
+Martial ,Axes    ,Swordslayer     ,1       ,11 ,13 ,Inverted Effective(Myrmidon) Effective(Swordmaster)
+Martial ,Axes    ,Hatchet         ,1~2     , 4 , 5 ,
+Martial ,Axes    ,Dragon Axe      ,1       ,12 ,11 ,Effective(Dragon)
+Martial ,Axes    ,Fiendcleaver    ,1       , 8 ,10 ,Effective(Monster)
+Martial ,Axes    ,Battle Axe      ,1       ,13 ,15 ,Lucky(10)
+Martial ,Axes    ,Garm            ,1       ,20 ,13 ,Bonus(Spd+1) Effective(Monster) Legendary
+Martial ,Bows    ,Iron Bow        ,2       , 6 , 5 ,
+Martial ,Bows    ,Steel Bow       ,2       , 9 , 9 ,
+Martial ,Bows    ,Silver Bow      ,2       ,13 , 6 ,
+Martial ,Bows    ,Poison Bow      ,2       , 4 , 5 ,Status(Poison)
+Martial ,Bows    ,Killer Bow      ,2       , 9 , 7 ,Lucky(20)
+Martial ,Bows    ,Brave Bow       ,2       ,10 ,12 ,Brave
+Martial ,Bows    ,Short Bow       ,2       , 5 , 3 ,Lucky(10)
+Martial ,Bows    ,Longbow         ,2~3     , 5 ,10 ,
+Martial ,Bows    ,Ballista        ,3~10    , 8 ,0 ,Exclusive(Archer) Exclusive(Sniper) Complex
+Martial ,Bows    ,Iron Ballista   ,3~15    ,13 ,0 ,Exclusive(Archer) Exclusive(Sniper) Complex
+Martial ,Bows    ,Killer Ballista ,3~10    ,12 ,0 ,Exclusive(Archer) Exclusive(Sniper) Lucky(10) Complex
+Martial ,Bows    ,Beacon Bow      ,2       , 6 , 5 ,Effective(Monster)
+Martial ,Bows    ,Nidhogg         ,2       ,18 , 7 ,Effective(Monster) Lucky(10) Legendary
+Magic   ,Reason   ,Fire            ,1~2     , 5 , 4 ,
+Magic   ,Reason   ,Thunder         ,1~2     , 8 , 6 ,
+Magic   ,Reason   ,Elfire          ,1~2     ,10 ,10 ,
+Magic   ,Reason   ,Bolting         ,3~10    ,12 ,20 , Complex
+Magic   ,Reason   ,Fimbulvetr      ,1~2     ,13 ,12 ,
+Magic   ,Reason   ,Excalibur       ,1~2     ,18 ,13 ,Bonus(Spd+1) Effective(Monster) Legendary
+Magic   ,Reason   ,Alacalibur      ,1~2     , 8 , 2 ,Effective(Flying)
+Magic   ,Dark    ,Flux            ,1~2     , 7 , 8 ,
+Magic   ,Dark    ,Luna            ,1~2     , 0 ,12 ,Piercing
+Magic   ,Dark    ,Nosferatu       ,1~2     ,10 ,14 ,Drain
+Magic   ,Dark    ,Eclipse         ,3~10    , 0 ,12 ,Decimate Complex
+Magic   ,Dark    ,Fenrir          ,1~2     ,15 ,18 ,
+Magic   ,Dark    ,Gleipnir        ,1~2     ,23 ,20 ,Bonus(Skill+1) Legendary
+Magic   ,Dark    ,Naglfar         ,1~2     ,25 ,18 , Legendary
+Magic   ,Faith   ,Lightning       ,1~2     , 4 , 6 ,
+Magic   ,Faith   ,Shine           ,1~2     , 6 , 8 ,
+Magic   ,Faith   ,Divine          ,1~2     , 8 ,12 ,
+Magic   ,Faith   ,Purge           ,3~10    ,10 ,20 , Complex
+Magic   ,Faith   ,Aura            ,1~2     ,12 ,15 ,
+Magic   ,Faith   ,Ivaldi          ,1~2     ,17 ,10 ,Bonus(Def+1) Effective(Monster) Legendary
+Martial ,Stone   ,Beaststone      ,1       , 6 ,  0 ,Exclusive(Taguel)
+Martial ,Stone   ,Beaststone+     ,1       ,10 ,  0 ,Exclusive(Taguel)
+Magic   ,Stone   ,Dragonstone     ,1~2     , 8 , 0  ,Exclusive(Manakete)
+Magic   ,Stone   ,Dragonstone+    ,1~2     ,12 , 0  ,Exclusive(Manakete)
+Magic   ,Stone   ,Expiration      ,1~5     ,20 , 0  ,Exclusive(Grima) Legendary
+        ,Faith  ,Heal            ,1       ,   ,   ,Heal(5)
+        ,Faith  ,Mend            ,1       ,   ,   ,Heal(10)
+        ,Faith  ,Recover         ,1       ,   ,   ,Heal(20)
+        ,Faith  ,Physic          ,Mag ,   ,   ,Heal(5)
+        ,Faith  ,Fortify         ,Mag ,   ,   ,AoE Heal(5)
+        ,Faith  ,Restore         ,1       ,   ,   ,Restore
+        ,Faith  ,Silence         ,Mag ,   ,   ,Status(Silenced) Inaccurate(2)
+        ,Faith  ,Sleep           ,Mag ,   ,   ,Status(Sleep) Inaccurate(2)
+        ,Faith  ,Berserk         ,Mag ,   ,   ,Status(Berserk) Inaccurate(2)
+        ,Faith  ,Warp            ,1       ,   ,   ,Warp
+        ,Faith  ,Rescue          ,Mag ,   ,   ,Rescue
+        ,Faith  ,Torch           ,Mag ,   ,   ,Torch(Mag)
+        ,Faith  ,Unlock          ,1~2     ,   ,   ,Pick
+        ,Faith  ,Barrier         ,1       ,   ,   ,Status(Barrier)
+        ,Faith  ,Latona          ,All     ,   ,   ,AoE Heal(20) Legendary
+Magic   ,Monster ,Wretched Air    ,1~2     ,14 , 0 ,Exclusive(ZombieDragon) Piercing
+Magic   ,Monster ,Nightmare       ,1~3     , 0 , 8 ,AoE Status(Sleep) Inaccurate(3)
+Magic   ,Monster ,Demon Faith     ,1~3     ,18 , 0 ,
+Magic   ,Monster ,Ravager         ,1       ,21 , 0 ,
+Magic   ,Monster ,Demon Surge     ,1~2     ,11 ,10 ,
+Magic   ,Monster ,Shadowshot      ,3~10    ,13 ,20 ,
+Martial ,Monster ,Rotten Claw     ,1       , 7 , 8 ,
+Martial ,Monster ,Fetid Claw      ,1       ,12 ,10 ,
+Martial ,Monster ,Sharp Claw      ,1       ,14 ,14 ,
+Martial ,Monster ,Poison Claw     ,1       , 6 ,10 ,Status(Poison)
+Martial ,Monster ,Lethal Talon    ,1       ,10 ,12 ,Status(Poison)
+Martial ,Monster ,Fiery Fang      ,1       , 5 , 5 ,
+Martial ,Monster ,Hellfang        ,1       ,13 , 8 ,
+Magic   ,Monster ,Evil Eye        ,1~2     , 7 , 6 ,
+Magic   ,Monster ,Crimson Eye     ,1~2     ,14 ,13 ,
+Magic   ,Monster ,Stone           ,1~3     , 0 , 8 ,Status(Petrify) Inaccurate(2)

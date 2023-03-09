@@ -1,0 +1,8 @@
+Name,Rng,Mt,Wt,Crit,Description
+Beaststone,1,6,,0,Taguel only; Str +3; Skl +5; Spd +5; Lck +4; Def +1
+Beaststone+,1,10,,0,Taguel only; Str +5; Skl +8; Spd +8; Lck +6; Def +4; Res +2
+Dragonstone,1~2,8,,0,Manaketes only; Str +8; Mag +5; Skl +3; Spd +2; Def +10; Res +7
+Dragonstone+,1~2,12,,0,Manaketes only; Str +11; Mag +6; Skl +5; Spd +4; Def +13; Res +9
+Blighted Claws,1,12,,0,Revenants and Entombed only
+Blighted Talons,1,16,,0,Revenants and Entombed only
+Expiration,1~5,20,,0,Grima only

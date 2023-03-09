@@ -1,0 +1,39 @@
+Name,Uses,Description (Comments)
+Vulnerary,3,Restores 10 HP to the user.
+Concoction,3,Restores 20 HP to the user.
+Elixir,3,Restores 99 HP to the user.
+Intermediate Seal,1,Allows user to take an Intermediate class exam.
+Advanced Seal,1,Allows user to take an Advanced class exam.
+Combined Seal,1,Allows user to take a Combined class exam. (Unused?)
+Master Seal,1,Allows user to take a Master class exam.
+Torch,3,Increases visibility in Fog of War maps.
+Bullion,-,Can be sold for 1000G at shops.
+Large Bullion,-,Can be sold for 5000G at shops.
+Extra Large Bullion,-,Can be sold for 10000G at shops.
+Antitoxin,3,Removes poison from the user.
+Pure Water,3,Temporarily increases the user's Resistance by 7. Effect decreases with each passing turn.
+Door Key,1,Opens a door.
+Chest Key,1,Opens a chest.
+Master Key,3,Opens a door or chest.
+Seraph Robe,1,Permanently increases maximum HP by 5.
+Energy Drop,1,Permanently increases Strength by 2.
+Spirit Dust,1,Permanently increases Magic by 2.
+Secret Book,1,Permanently increases Dexterity by 2.
+Speedwing,1,Permanently increases Speed by 2.
+Goddess Icon,1,Permanently increases Luck by 4.
+Giant Shell,1,Permanently increases Defence by 2.
+Talisman,1,Permanently increases Resistance by 2.
+Black Pearl,1,Permanently increases Charm by 2.
+Shoes of the Wind,1,Permanently increases Movement by 1.
+Crest Stone,-,A story-related item.
+Rocky Burdock,1,Permanently increases Strength by 1.
+Premium Magic Herbs,1,Permanently increases Magic by 1.
+Ailell Pomegranate,1,Permanently increases Dexterity by 1.
+Speed Carrot,1,Permanently increases Speed by 1.
+Miracle Bean,1,Permanently increases Luck by 1.
+Ambrosia,1,Permanently increases Defence by 1.
+White Verona,1,Permanently increases Resistance by 1.
+Golden Apple,1,Permanently increases Charm by 1.
+Fruit of Life,1,Permanently increases maximum HP by 1.
+Dark Seal,1,Allows user to take the Dark Mage or Dark Bishop class exam.
+Beginner Seal,1,Allows user to take a Beginner class exam.

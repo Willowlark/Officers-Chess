@@ -1,0 +1,240 @@
+{
+    "name": "Test Weapon",
+    "type": "equippableItem",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "hidden": [],
+        "header": {
+            "contents": [],
+            "cssClass": null,
+            "role": 0,
+            "permission": 0,
+            "tooltip": null,
+            "flow": null,
+            "align": null,
+            "type": "panel",
+            "visibilityFormula": null
+        },
+        "body": {
+            "contents": [
+                {
+                    "key": "infopanel",
+                    "cssClass": "",
+                    "role": "0",
+                    "permission": "0",
+                    "tooltip": "",
+                    "visibilityFormula": null,
+                    "contents": [
+                        {
+                            "key": "wpname",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": null,
+                            "label": "Name",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        },
+                        {
+                            "key": "lvl",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": null,
+                            "label": "Lvl",
+                            "defaultValue": "",
+                            "size": "small",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        },
+                        {
+                            "key": "wptype",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": null,
+                            "label": "Type",
+                            "defaultValue": "",
+                            "size": "medium",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        }
+                    ],
+                    "flow": "horizontal",
+                    "align": "center",
+                    "type": "panel"
+                },
+                {
+                    "key": "statspanel",
+                    "cssClass": "",
+                    "role": "0",
+                    "permission": "0",
+                    "tooltip": "",
+                    "visibilityFormula": null,
+                    "contents": [
+                        {
+                            "key": "dmgtype",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": null,
+                            "label": "Damage Type",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "options": [
+                                {
+                                    "key": "magic",
+                                    "value": "Magic"
+                                },
+                                {
+                                    "key": "martial",
+                                    "value": "Martial"
+                                }
+                            ],
+                            "tableKey": null,
+                            "tableKeyColumn": null,
+                            "tableLabelColumn": null,
+                            "type": "select"
+                        },
+                        {
+                            "key": "might",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": null,
+                            "label": "Might",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        },
+                        {
+                            "key": "wprange",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": null,
+                            "label": "Range",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        },
+                        {
+                            "key": "weight",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": "",
+                            "label": "Weight",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        },
+                        {
+                            "key": "wptags",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": null,
+                            "label": "Tags",
+                            "defaultValue": "",
+                            "size": "large",
+                            "charList": "",
+                            "maxLength": "",
+                            "type": "textField"
+                        },
+                        {
+                            "key": "cost",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": null,
+                            "label": "Cost",
+                            "defaultValue": "",
+                            "size": "full-size",
+                            "allowDecimal": false,
+                            "minVal": "",
+                            "maxVal": "",
+                            "allowRelative": false,
+                            "showControls": false,
+                            "type": "numberField"
+                        }
+                    ],
+                    "flow": "horizontal",
+                    "align": "left",
+                    "type": "panel"
+                }
+            ],
+            "cssClass": null,
+            "role": 0,
+            "permission": 0,
+            "tooltip": null,
+            "flow": null,
+            "align": null,
+            "type": "panel",
+            "visibilityFormula": null
+        },
+        "display": {
+            "width": "600",
+            "height": "600",
+            "fix_size": false,
+            "pp_width": "64",
+            "pp_height": "64"
+        },
+        "template": "e01HTyTNxJDa8fJl",
+        "props": {
+            "wpname": "Test",
+            "wpclass": "swords",
+            "dmgtype": "martial",
+            "might": "2",
+            "wprange": "1",
+            "weight": "1",
+            "wptags": "Blah(0)",
+            "cost": "0",
+            "lvl": "F",
+            "wptype": "dfadsadfs"
+        },
+        "modifiers": [],
+        "unique": false
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0,
+        "uq5xdVlxrWSzTiGc": 3
+    },
+    "flags": {
+        "custom-system-builder": {
+            "version": "2.1.0"
+        }
+    },
+    "_stats": {
+        "systemId": "custom-system-builder",
+        "systemVersion": "2.2.4",
+        "coreVersion": "10.291",
+        "createdTime": 1674832965680,
+        "modifiedTime": 1677685854269,
+        "lastModifiedBy": "uq5xdVlxrWSzTiGc"
+    },
+    "_id": "JjeM7ZhFoJbKgRFT"
+}
