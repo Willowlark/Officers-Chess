@@ -5,7 +5,7 @@
 | Axe Cavalier   |   25 | C     | E     | C     | C     | C     | D     | Axe[B]                     | Cavalry               | No         |      18 |
 | Axe Fighter    |   27 | C     | E     | C     | D     | C     | D     | Axe[B]                     | Backup, Built         | No         |      18 |
 | Axe Flier      |   23 | C     | D     | C     | C     | D     | C     | Axe[B]                     | Flying                | No         |      18 |
-| Dancer         |   23 | C     | D     | D     | A     | E     | C     | Arts[A]                    | Qi Adept, Dance       | No         |      18 |
+| Dancer         |   23 | C     | D     | D     | A     | E     | C     | Arts[A]                    | Dance, Qi Adept       | No         |      18 |
 | Lance Armor    |   27 | B     | E     | D     | E     | A     | E     | Lance[B]                   | Armor, Built          | No         |      18 |
 | Lance Cavalier |   25 | C     | E     | C     | C     | C     | D     | Lance[B]                   | Cavalry               | No         |      18 |
 | Lance Fighter  |   27 | C     | E     | C     | D     | C     | D     | Lance[B]                   | Backup                | No         |      18 |
@@ -21,12 +21,12 @@
 | Bow Knight     |   25 | B     | D     | B     | C     | C     | C     | Sword[C+] Bow[A]           | Cavalry               | Yes        |      22 |
 | Bow Knight     |   25 | B     | D     | B     | C     | C     | C     | Lance[C+] Bow[A]           | Cavalry               | Yes        |      22 |
 | Bow Knight     |   25 | B     | D     | B     | C     | C     | C     | Axe[C+] Bow[A]             | Cavalry               | Yes        |      22 |
-| General        |   29 | A     | E     | C     | D     | A     | E     | Sword[A+]                  | Slow(1), Armor, Built | Yes        |      22 |
-| General        |   29 | A     | E     | C     | D     | A     | E     | Lance[A+]                  | Slow(1), Armor, Built | Yes        |      22 |
-| General        |   29 | A     | E     | C     | D     | A     | E     | Axe[A+]                    | Slow(1), Armor, Built | Yes        |      22 |
-| Great Knight   |   27 | B     | E     | C     | C     | A     | D     | Sword[B+] Lance[B+]        | Cavalry, Armor, Built | Yes        |      22 |
-| Great Knight   |   27 | B     | E     | C     | C     | A     | D     | Sword[B+] Axe[B+]          | Cavalry, Armor, Built | Yes        |      22 |
-| Great Knight   |   27 | B     | E     | C     | C     | A     | D     | Lance[B+] Axe[B+]          | Cavalry, Armor, Built | Yes        |      22 |
+| General        |   29 | A     | E     | C     | D     | A     | E     | Sword[A+]                  | Armor, Slow(1), Built | Yes        |      22 |
+| General        |   29 | A     | E     | C     | D     | A     | E     | Lance[A+]                  | Armor, Slow(1), Built | Yes        |      22 |
+| General        |   29 | A     | E     | C     | D     | A     | E     | Axe[A+]                    | Armor, Slow(1), Built | Yes        |      22 |
+| Great Knight   |   27 | B     | E     | C     | C     | A     | D     | Sword[B+] Lance[B+]        | Armor, Cavalry, Built | Yes        |      22 |
+| Great Knight   |   27 | B     | E     | C     | C     | A     | D     | Sword[B+] Axe[B+]          | Armor, Cavalry, Built | Yes        |      22 |
+| Great Knight   |   27 | B     | E     | C     | C     | A     | D     | Lance[B+] Axe[B+]          | Armor, Cavalry, Built | Yes        |      22 |
 | Griffin Knight |   25 | C     | D     | C     | B     | C     | B     | Sword[A+] Staff[C+]        | Flying                | Yes        |      22 |
 | Griffin Knight |   25 | C     | D     | C     | B     | C     | B     | Lance[A+] Staff[C+]        | Flying                | Yes        |      22 |
 | Griffin Knight |   25 | C     | D     | C     | B     | C     | B     | Axe[A+] Staff[C+]          | Flying                | Yes        |      22 |
@@ -49,6 +49,6 @@
 | Wolf Knight    |   25 | C     | D     | A     | B     | D     | C     | Sword[B+] Knife[A+]        | Cavalry               | Yes        |      22 |
 | Wolf Knight    |   25 | C     | D     | A     | B     | D     | C     | Lance[B+] Knife[A+]        | Cavalry               | Yes        |      22 |
 | Wolf Knight    |   25 | C     | D     | A     | B     | D     | C     | Axe[B+] Knife[A+]          | Cavalry               | Yes        |      22 |
-| Wyvern Knight  |   27 | A     | E     | B     | D     | B     | D     | Sword[B+] Lance[B+]        | Flying, Dragon, Built | Yes        |      22 |
-| Wyvern Knight  |   27 | A     | E     | B     | D     | B     | D     | Sword[B+] Axe[B+]          | Flying, Dragon, Built | Yes        |      22 |
-| Wyvern Knight  |   27 | A     | E     | B     | D     | B     | D     | Lance[B+] Axe[B+]          | Flying, Dragon, Built | Yes        |      22 |
+| Wyvern Knight  |   27 | A     | E     | B     | D     | B     | D     | Sword[B+] Lance[B+]        | Dragon, Flying, Built | Yes        |      22 |
+| Wyvern Knight  |   27 | A     | E     | B     | D     | B     | D     | Sword[B+] Axe[B+]          | Dragon, Flying, Built | Yes        |      22 |
+| Wyvern Knight  |   27 | A     | E     | B     | D     | B     | D     | Lance[B+] Axe[B+]          | Dragon, Flying, Built | Yes        |      22 |
