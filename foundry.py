@@ -64,9 +64,9 @@ class Foundry(object):
             foundry['img'] = img
             foundry['system']['props']['health'] = int(x.HP)
             foundry['system']['props']['maxhplabel'] = str(x.HP)
-            foundry['system']['body']['contents'][1]['contents'][2]['value'] = str(x.HP)
+            foundry['system']['body']['contents'][6]['contents'][0]['contents'][2]['value'] = str(x.HP)
             foundry['system']['props']['class'] = x.Class
-            foundry['system']['props']['totalcost'] = "0"
+            foundry['system']['props']['totalcost'] = 0
             foundry['system']['props']['maxhp'] = (x.HP)
             foundry['system']['props']['str'] = str((x.Str))
             foundry['system']['props']['mag'] = str((x.Mag))
@@ -114,11 +114,6 @@ class Foundry(object):
     
     def _weapons(self):
         
-        FOLDER_ID = {
-                    'v0.6' : "JPM0fBCJkiujNine",
-                    'v0.7' : "ofqSIcDrhvx4GfF6"
-                    }
-        
         data = pd.read_csv(join(self.data_path, 'weapons_engage.csv')).fillna('')
         
         db = []
@@ -126,14 +121,15 @@ class Foundry(object):
             foundry = json.loads(open(self.template_path+'weapons.json').read())
             foundry['name'] = x.Name
             foundry['_id'] = blake2b(bytes(x.Name, 'utf-8'), digest_size=16).hexdigest()
-            foundry['system']['props']['dmgtype'] = 'martial' if x.DmgType == 'Phys' else 'magic'
-            foundry['system']['props']['wptype'] = x.Type
+            foundry['system']['props']['dmgtype'] = 'Martial' if x.DmgType == 'Phys' else 'Magic'
+            foundry['system']['props']['type'] = x.Type
             foundry['system']['props']['cost'] = str(int(x.Price))
             foundry['system']['props']['might'] = str(int(x.Mt))
-            foundry['system']['props']['weight'] = str(int(x.Wt))
+            foundry['system']['props']['wt'] = str(int(x.Wt))
+            foundry['system']['props']['hit'] = str(int(x.Hit))
             foundry['system']['props']['wprange'] = x.Rng
             foundry['system']['props']['lvl'] = x.Lvl
-            foundry['system']['props']['wptags'] = x.Tags if x.Tags else ''
+            foundry['system']['props']['tags'] = x.Tags if x.Tags else ''
             foundry['system']['props']['gameversion'] = self.version
             foundry['system']['props']['wpname'] = x.Name
             foundry['_stats']['modifiedTime'] = datetime.datetime.now().timestamp()

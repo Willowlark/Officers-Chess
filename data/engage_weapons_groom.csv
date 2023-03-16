@@ -1,0 +1,83 @@
+Type   ,Name              ,Mt ,Hit ,Crit ,Wt ,Rng  ,Lvl ,Uses ,Price ,Tags                                           ,Notes/Description
+Art    ,Flashing Fist Art , 9 , 80 ,   0 , 9 ,1    ,B   ,     , 6000 ,Brave Bonus(Agi+5) Cursed(Def-2) Cursed(Res-2) ,A scroll of brash martial skill. Grants Spd+5; but user takes +5 damage. If user initiates combat; attacks twice.
+Art    ,Silver-Spirit Art , 8 , 80 ,   0 , 7 ,1    ,B   ,     , 4000 ,Brave                                          ,A scroll of a highly polished martial skill. If user initiates combat; attacks twice.
+Art    ,Steel-Hand Art    , 5 , 70 ,   5 , 5 ,1    ,C   ,     , 2000 ,Brave                                          ,A scroll of a standard martial skill. If user initiates combat; attacks twice.
+Art    ,Shielding Art     , 4 , 70 ,   0 , 8 ,1    ,C   ,     , 2500 ,Bonus(Def+1)                                   ,A scroll of a defensive martial skill. Grants Def+5.
+Art    ,Divine Fist Art   ,11 , 75 ,  10 ,12 ,1    ,S   ,     ,10000 ,Brave                                          ,A scroll of a legendary martial skill. If user initiates combat; attacks twice.
+Axe    ,Brave Axe         , 6 , 70 ,   0 ,16 ,1    ,A   ,     , 8000 ,Brave                                          ,An axe built for expert wielders. If user initiates combat; attacks twice.
+Axe    ,Silver Axe        ,16 , 70 ,   0 ,14 ,1    ,A   ,     , 4000 ,                                               ,An exceptional axe of rare metals.
+Axe    ,Tomahawk          ,14 , 60 ,   0 ,16 ,1~2  ,A   ,     , 4500 ,                                               ,A powerful throwing axe that can strike close or at range.
+Axe    ,Silver Greataxe   ,32 , 60 ,   0 ,17 ,1    ,A   ,     , 6000 ,Heavy                                          ,A massive axe of rare metals that smashes foes. Cannot follow up; or strike first if initiating combat.
+Axe    ,Steel Greataxe    ,26 , 55 ,   5 ,14 ,1    ,B   ,     , 3000 ,Heavy                                          ,A massive axe of steel that smashes foes. Cannot follow up; or strike first if initiating combat.
+Axe    ,Hurricane Axe     ,20 , 70 ,   0 ,15 ,1    ,B   ,     , 3000 ,Enchanted Heavy                                ,A magical axe that smashes foes. Cannot follow up; or strike first if initiating combat. Effective: Flying.
+Axe    ,Killer Axe        ,11 , 65 ,  30 ,12 ,1    ,B   ,     , 3000 ,Deadly(20)                                     ,An axe especially well-suited to inflicting deadly wounds.
+Axe    ,Poleaxe           , 8 , 60 ,   0 ,14 ,1    ,C   ,     , 2500 ,Effective(Cavalry)                             ,An axe whose long handle helps reach mounted foes. Effective: Cavalry.
+Axe    ,Steel Axe         ,13 , 65 ,   5 ,12 ,1    ,C   ,     , 2000 ,                                               ,An axe made of steel.
+Axe    ,Hammer            , 9 , 60 ,   0 ,14 ,1    ,C   ,     , 2500 ,Effective(Armor)                               ,A war hammer made to crack through heavy armor. Effective: Armored.
+Axe    ,Hand Axe          , 7 , 70 ,   0 ,12 ,1~2  ,C   ,     , 1800 ,                                               ,A light throwing axe that can strike close or at range.
+Axe    ,Fragarach         ,19 , 80 ,   0 ,16 ,1    ,S   ,     ,10000 ,                                               ,A legendary axe.
+Axe    ,Ukonvasara        ,38 , 70 ,   0 ,24 ,1    ,S   ,     ,10000 ,Heavy                                          ,A huge; legendary axe that smashes foes. Cannot follow up; or strike first if initiating combat.
+Bow    ,Silver Bow        ,13 , 85 ,   0 ,10 ,2    ,A   ,     , 4000 ,Effective(Flying)                              ,An exceptional bow of rare metals. Effective: Flying.
+Bow    ,Brave Bow         , 4 , 75 ,   0 ,11 ,2    ,A   ,     , 8000 ,Brave Effective(Flying)                        ,A bow built for expert wielders. If user initiates combat; attacks twice. Effective: Flying.
+Bow    ,Longbow           , 7 , 70 ,   0 ,10 ,2~3  ,C   ,     , 2000 ,Effective(Flying)                              ,A bow made to fire at longer ranges. Effective: Flying.
+Bow    ,Mini Bow          , 3 ,100 ,   0 , 4 ,1~2  ,C   ,     , 2000 ,                                               ,Ddg+20; An easy-to-use; short-range bow. Effective: Flying.
+Bow    ,Steel Bow         ,10 , 80 ,   5 , 7 ,2    ,C   ,     , 2000 ,Effective(Flying)                              ,A bow made of steel. Effective: Flying.
+Bow    ,Killer Bow        , 7 , 75 ,  30 , 7 ,2    ,B   ,     , 3000 ,Deadly(20) Effective(Flying)                   ,A bow especially well-suited to inflicting deadly wounds. Effective: Flying.
+Bow    ,Radiant Bow       ,19 , 75 ,   0 ,12 ,2    ,B   ,     , 3000 ,Enchanted Effective(Flying)                    ,A magical bow whose arrows pierce with light. Effective: Flying.
+Bow    ,Lendabair         ,16 , 80 ,   0 ,11 ,2    ,S   ,     ,10000 ,Effective(Flying)                              ,A bow wielded by legends. Effective: Flying.
+Dagger ,Silver Dagger     ,10 , 90 ,   0 , 7 ,1~2  ,A   ,     , 4000 ,Status(Poisoned)                               ,A throwing knife made of rare metals. Poisons hit foes.
+Dagger ,Peshkatz          ,12 , 85 ,  20 , 9 ,1    ,A   ,     , 4000 ,Deadly(15) Status(Poisoned)                    ,A fighting knife intended for close combat. Poisons hit foes.
+Dagger ,Stiletto          , 9 , 75 ,  15 , 7 ,1    ,B   ,     , 2000 ,Deadly(15) Status(Poisoned)                    ,A fighting knife intended for close combat. Poisons hit foes.
+Dagger ,Steel Dagger      , 7 , 80 ,   5 , 5 ,1~2  ,C   ,     , 2000 ,Status(Poisoned)                               ,A throwing knife made of steel. Poisons hit foes.
+Dagger ,Cinquedea         ,13 , 85 ,  10 , 8 ,1~2  ,S   ,     ,10000 ,Status(Poisoned)                               ,A legendary throwing knife that poisons hit foes.
+Dagger ,Carnwenhan        ,28 , 80 ,   0 ,13 ,1    ,S   ,     ,10000 ,Heavy Status(Poisoned)                         ,A legendary short sword. Smashes and poisons hit foes. Cannot follow up; or strike first if initiating combat.
+Lance  ,Brave Lance       , 5 , 75 ,   0 ,14 ,1    ,A   ,     , 8000 ,Brave                                          ,A lance built for expert wielders. If user initiates combat; attacks twice.
+Lance  ,Silver Lance      ,14 , 80 ,   0 ,13 ,1    ,A   ,     , 4000 ,                                               ,An exceptional lance of rare metals.
+Lance  ,Silver Greatlance ,28 , 70 ,   0 ,15 ,1    ,A   ,     , 6000 ,Heavy                                          ,A massive lance of rare metals that smashes foes. Cannot follow up; or strike first if initiating combat.
+Lance  ,Spear             ,12 , 70 ,   0 ,15 ,1~2  ,A   ,     , 4500 ,                                               ,A powerful throwing lance that can strike close or at range.
+Lance  ,Steel Greatlance  ,22 , 65 ,   5 ,12 ,1    ,B   ,     , 3000 ,Heavy                                          ,A massive lance of steel that smashes foes. Cannot follow up; or strike first if initiating combat.
+Lance  ,Killer Lance      , 7 , 75 ,  30 , 9 ,1    ,B   ,     , 3000 ,Deadly(20)                                     ,A lance especially well-suited to inflicting deadly wounds.
+Lance  ,Flame Lance       ,10 , 75 ,   0 ,16 ,1~2  ,B   ,     , 3000 ,Enchanted                                      ,A magical lance that can strike close or at range.
+Lance  ,Ridersbane        , 8 , 70 ,   0 ,13 ,1    ,C   ,     , 2500 ,Effective(Cavalry)                             ,A lance designed for foes on horseback. Effective: Cavalry.
+Lance  ,Steel Lance       ,11 , 75 ,   5 ,10 ,1    ,C   ,     , 2000 ,                                               ,A lance made of steel.
+Lance  ,Javelin           , 6 , 80 ,   0 , 9 ,1~2  ,C   ,     , 1800 ,                                               ,A light throwing lance that can strike close or at range.
+Lance  ,Brionac           ,17 , 70 ,   0 ,17 ,1~2  ,S   ,     ,10000 ,                                               ,A powerful lance of legend. Can strike close or at range.
+Lance  ,Venomous          ,34 , 80 ,  10 ,20 ,1    ,S   ,     ,10000 ,Heavy Status(Poisoned)                         ,A lance of legend that smashes and poisons hit foes. Cannot follow up; or strike first if initiating combat.
+Staff  ,Fortify           , 7 ,100 ,   0 , 0 ,1~5  ,A   ,   5 , 5000 ,AoE Heal(10) Consumable(3)                     ,A staff imbued with healing magic. Recovers HP for all allies within a 5-space radius.
+Staff  ,Entrap            , 0 , 50 ,   0 , 0 ,1~6  ,A   ,   3 , 4000 ,Entrap Consumable(3)                           ,A staff imbued with space-warping magic. Teleports a faraway foe to an adjacent space.
+Staff  ,Fracture          , 0 , 70 ,   0 , 0 ,1~10 ,B   ,  10 , 1200 ,Effect(Break) Consumable(5)                    ,A staff imbued with magic that can break foes.
+Staff  ,Rescue            , 0 ,100 ,   0 , 0 ,1~8  ,B   ,   5 , 2000 ,Rescue Consumable(5)                           ,A staff imbued with space-warping magic. Teleports a faraway ally to an adjacent space.
+Staff  ,Warp              , 0 ,100 ,   0 , 0 ,1    ,B   ,   5 , 2000 ,Warp Consumable(5)                             ,A staff imbued with space-warping magic. Teleports an adjacent ally up to 5 spaces away.
+Staff  ,Physic            , 8 ,100 ,   0 , 0 ,1~5  ,B   ,  10 , 3000 ,Heal(5) Consumable(5)                         ,A staff imbued with healing magic. Can recover an ally's HP at a distance.
+Staff  ,Heal              ,10 ,100 ,   0 , 0 ,1    ,C   ,  25 ,  500 ,Heal(5) Consumable(10)                          ,A staff imbued with healing magic. Recovers an ally's HP.
+Staff  ,Mend              ,20 ,100 ,   0 , 0 ,1    ,B   ,  20 , 1000 ,Heal(10) Consumable(7)                         ,A staff imbued with healing magic. Recovers a great deal of an ally's HP.
+Staff  ,Recover           ,40 ,100 ,   0 , 0 ,1    ,A   ,  10 , 3000 ,Heal(15) Consumable(3)                         ,A staff imbued with healing magic. Recovers vast amounts of an ally's HP.
+Staff  ,Illume            , 0 ,100 ,   0 , 0 ,—    ,C   ,   5 ,  500 ,Torch(7) Consumable(5)                         ,A staff that magically shines through darkness. Illuminates a 7-space radius (shrinks one space per turn).
+Staff  ,Silence           , 0 , 70 ,   0 , 0 ,1~6  ,C   ,   5 , 1500 ,Effect(Silence) Consumable(5)                  ,A staff that prevents foes from using tomes or staves for 1 turn.
+Staff  ,Obstruct          , 0 ,100 ,   0 , 0 ,1~8  ,C   ,  10 ,  500 ,Vein(Ice) Consumable(5)                        ,A staff that conjures a mass of ice that makes one space impassable for 1 turn.
+Staff  ,Freeze            , 0 , 70 ,   0 , 0 ,1~6  ,C   ,   5 , 1500 ,Freeze Consumable(5)                           ,A staff that prevents foes from moving for 1 turn.
+Staff  ,Rewarp            , 0 ,100 ,   0 , 0 ,—    ,C   ,   5 , 1200 ,Rewarp Consumable(5)                           ,A staff imbued with space-warping magic. Teleports the user up to 5 spaces away.
+Staff  ,Restore           , 0 ,100 ,   0 , 0 ,1~3  ,C   ,  10 ,  500 ,Heal(5) Consumable(5)                          ,A staff that removes status effects on an ally.
+Staff  ,Nodus             ,20 ,100 ,   0 , 0 ,Inf  ,S   ,   1 , 6000 ,Consumable(1)                                  ,A staff imbued with mysterious magic that sets all allies' engage meters to max.
+Sword  ,Silver Sword      ,12 , 90 ,   0 ,11 ,1    ,A   ,     , 4000 ,                                               ,An exceptional sword of rare metals.
+Sword  ,Silver Blade      ,24 , 80 ,   0 ,13 ,1    ,A   ,     , 6000 ,Heavy                                          ,A massive sword of rare metals that smashes foes. Cannot follow up; or strike first if initiating combat.
+Sword  ,Brave Sword       , 4 , 80 ,   0 ,13 ,1    ,A   ,     , 8000 ,Brave                                          ,A sword built for expert wielders. If user initiates combat; attacks twice.
+Sword  ,Wo Dao            , 6 , 90 ,  20 , 7 ,1    ,A   ,     , 2500 ,Deadly(20)                                     ,A sword honed to a razor edge.
+Sword  ,Steel Blade       ,18 , 75 ,   5 ,10 ,1    ,B   ,     , 3000 ,Heavy                                          ,A massive sword of steel that smashes foes. Cannot follow up; or strike first if initiating combat.
+Sword  ,Killing Edge      , 9 , 75 ,  30 ,10 ,1    ,B   ,     , 2500 ,Deadly(20)                                     ,A sword especially well-suited to inflicting deadly wounds.
+Sword  ,Levin Sword       ,13 , 85 ,   0 ,11 ,1~2  ,B   ,     , 3000 ,Enchanted                                      ,A magical sword that can strike close or at range.
+Sword  ,Wyrmslayer        , 8 , 80 ,   0 ,12 ,1    ,C   ,     , 2500 ,Effective(Dragon)                              ,A sword crafted specifically to fight dragons. Effective: Dragon.
+Sword  ,Steel Sword       , 9 , 85 ,   5 , 8 ,1    ,C   ,     , 2000 ,                                               ,A sword made of steel.
+Sword  ,Armorslayer       , 9 , 75 ,   0 ,13 ,1    ,C   ,     , 2500 ,Effective(Armor)                               ,A sword made to penetrate heavy armor. Effective: Armored.
+Sword  ,Georgios          ,32 , 90 ,   0 ,18 ,1    ,S   ,     ,10000 ,Heavy                                          ,A legendary blade that smashes foes. Cannot follow up; or strike first if initiating combat.
+Sword  ,Caladbolg         ,15 , 95 ,   0 ,12 ,1    ,S   ,     ,10000 ,                                               ,A legendary sword; famous for its great power.
+Tome   ,Excalibur         ,10 , 80 ,   5 , 9 ,1~2  ,S   ,     , 4000 ,Effective(Flying)                              ,A truly mighty wind tome. Effective: Flying.
+Tome   ,Meteor            ,13 , 80 ,   0 ,20 ,3~7  ,A   ,     ,  100 ,Complex                                        ,A tome of long-range attack magic. Cannot be used at shorter ranges.
+Tome   ,Thoron            ,18 , 70 ,   0 ,16 ,1~3  ,A   ,     , 4000 ,Complex                                        ,A truly mighty thunder tome. Cannot follow up.
+Tome   ,Bolganone         ,16 , 85 ,   0 ,11 ,1~2  ,A   ,     , 4000 ,                                               ,A truly mighty fire tome.
+Tome   ,Elwind            , 7 , 85 ,   0 , 6 ,1~2  ,B   ,     , 2000 ,Effective(Flying)                              ,An advanced wind tome. Effective: Flying.
+Tome   ,Elthunder         ,11 , 75 ,   0 ,13 ,1~3  ,B   ,     , 2000 ,Complex                                        ,An advanced thunder tome. Cannot follow up.
+Tome   ,Wind              , 4 , 90 ,   0 , 4 ,1~2  ,C   ,     , 1000 ,Effective(Flying)                              ,A standard tome of wind magic. Effective: Flying.
+Tome   ,Elsurge           ,13 ,255 ,  10 , 7 ,1    ,C   ,     , 2500 ,                                               ,An advanced attack tome that can only be used in close combat.
+Tome   ,Elfire            ,11 , 90 ,   0 , 7 ,1~2  ,C   ,     , 2000 ,                                               ,An advanced fire tome.
+Tome   ,Nova              , 5 , 75 ,   0 ,14 ,1~2  ,S   ,     ,10000 ,Brave                                          ,An extremely potent tome. If user initiates combat; attacks twice.

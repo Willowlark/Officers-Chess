@@ -1,53 +1,53 @@
 Class,HP,Str,Mag,Dex,Spd,Def,Res,Proficencies,Tags,Promoted,Total
 Archer,25,C,E,B,C,D,D,Bow[B],Covert,No,18
-Axe Armor,27,B,E,D,E,A,E,Axe[B],"Armor, Built",No,18
+Axe Armor,27,B,E,D,E,A,E,Axe[B],Armor,No,18
 Axe Cavalier,25,C,E,C,C,C,D,Axe[B],Cavalry,No,18
-Axe Fighter,27,C,E,C,D,C,D,Axe[B],"Backup, Built",No,18
+Axe Fighter,27,C,E,C,D,C,D,Axe[B],Backup,No,18
 Axe Flier,23,C,D,C,C,D,C,Axe[B],Flying,No,18
-Dancer,23,C,D,D,A,E,C,Arts[A],"Dance, Qi Adept",No,18
-Lance Armor,27,B,E,D,E,A,E,Lance[B],"Armor, Built",No,18
+Dancer,23,C,D,D,A,E,C,Arts[B],"Dance, Qi Adept",No,18
+Lance Armor,27,B,E,D,E,A,E,Lance[B],Armor,No,18
 Lance Cavalier,25,C,E,C,C,C,D,Lance[B],Cavalry,No,18
 Lance Fighter,27,C,E,C,D,C,D,Lance[B],Backup,No,18
 Lance Flier,23,C,D,C,C,D,C,Lance[B],Flying,No,18
 Mage,21,E,B,B,C,E,B,Tome[B],Mystical,No,18
 Martial Monk,21,C,B,C,D,E,B,Staff[B] Arts[C],Qi Adept,No,18
-Sword Armor,27,B,E,D,E,A,E,Sword[B],"Armor, Built",No,18
+Sword Armor,27,B,E,D,E,A,E,Sword[B],Armor,No,18
 Sword Cavalier,25,C,E,C,C,C,D,Sword[B],Cavalry,No,18
 Sword Fighter,27,C,E,C,D,C,D,Sword[B],Backup,No,18
 Sword Flier,23,C,D,C,C,D,C,Sword[B],Flying,No,18
-Thief,21,D,E,B,B,C,C,Knife[S],"Pick, Covert",No,18
-Berserker,29,A,E,B,A,E,E,Axe[S],"Backup, Built",Yes,22
+Thief,21,D,E,B,B,C,C,Knife[S],"Covert, Pick",No,18
+Berserker,29,A,E,B,A,E,E,Axe[S],Backup,Yes,22
 Bow Knight,25,B,D,B,C,C,C,Sword[C+] Bow[A],Cavalry,Yes,22
 Bow Knight,25,B,D,B,C,C,C,Lance[C+] Bow[A],Cavalry,Yes,22
 Bow Knight,25,B,D,B,C,C,C,Axe[C+] Bow[A],Cavalry,Yes,22
-General,29,A,E,C,D,A,E,Sword[A+],"Armor, Slow(1), Built",Yes,22
-General,29,A,E,C,D,A,E,Lance[A+],"Armor, Slow(1), Built",Yes,22
-General,29,A,E,C,D,A,E,Axe[A+],"Armor, Slow(1), Built",Yes,22
-Great Knight,27,B,E,C,C,A,D,Sword[B+] Lance[B+],"Armor, Cavalry, Built",Yes,22
-Great Knight,27,B,E,C,C,A,D,Sword[B+] Axe[B+],"Armor, Cavalry, Built",Yes,22
-Great Knight,27,B,E,C,C,A,D,Lance[B+] Axe[B+],"Armor, Cavalry, Built",Yes,22
+General,29,A,E,C,D,A,E,Sword[A+],"Slow(1), Armor",Yes,22
+General,29,A,E,C,D,A,E,Lance[A+],"Slow(1), Armor",Yes,22
+General,29,A,E,C,D,A,E,Axe[A+],"Slow(1), Armor",Yes,22
+Great Knight,27,B,E,C,C,A,D,Sword[B+] Lance[B+],"Cavalry, Armor",Yes,22
+Great Knight,27,B,E,C,C,A,D,Sword[B+] Axe[B+],"Cavalry, Armor",Yes,22
+Great Knight,27,B,E,C,C,A,D,Lance[B+] Axe[B+],"Cavalry, Armor",Yes,22
 Griffin Knight,25,C,D,C,B,C,B,Sword[A+] Staff[C+],Flying,Yes,22
 Griffin Knight,25,C,D,C,B,C,B,Lance[A+] Staff[C+],Flying,Yes,22
 Griffin Knight,25,C,D,C,B,C,B,Axe[A+] Staff[C+],Flying,Yes,22
 Halberdier,27,B,D,B,C,B,E,Lance[S],Backup,Yes,22
-Hero,27,B,E,B,C,B,D,Sword[A] Lance[C+],"Backup, Built",Yes,22
-Hero,27,B,E,B,C,B,D,Sword[A] Axe[C+],"Backup, Built",Yes,22
+Hero,27,B,E,B,C,B,D,Sword[A] Lance[C+],Backup,Yes,22
+Hero,27,B,E,B,C,B,D,Sword[A] Axe[C+],Backup,Yes,22
 High Priest,23,D,A,C,C,D,A,Tome[B+] Staff[S] Arts[C+],Mystical,Yes,22
 Mage Knight,25,C,B,C,C,C,C,Sword[B+] Tome[A],Cavalry,Yes,22
 Mage Knight,25,C,B,C,C,C,C,Lance[B+] Tome[A],Cavalry,Yes,22
 Mage Knight,25,C,B,C,C,C,C,Axe[B+] Tome[A],Cavalry,Yes,22
 Martial Master,25,B,C,C,D,C,B,Staff[A] Arts[S],Qi Adept,Yes,22
-Paladin,25,C,E,B,C,B,B,Sword[A+],"Cavalry, Built",Yes,22
-Paladin,25,C,E,B,C,B,B,Lance[A+],"Cavalry, Built",Yes,22
-Paladin,25,C,E,B,C,B,B,Axe[A+],"Cavalry, Built",Yes,22
+Paladin,25,C,E,B,C,B,B,Sword[A+],Cavalry,Yes,22
+Paladin,25,C,E,B,C,B,B,Lance[A+],Cavalry,Yes,22
+Paladin,25,C,E,B,C,B,B,Axe[A+],Cavalry,Yes,22
 Royal Knight,25,B,C,C,C,C,C,Lance[A] Staff[C+],Cavalry,Yes,22
 Sage,23,E,A,B,C,D,A,Tome[S] Staff[B+],Mystical,Yes,22
 Sniper,25,A,E,A,B,D,D,Bow[S],Covert,Yes,22
 Swordmaster,23,B,D,A,A,D,D,Sword[S],Backup,Yes,22
-Warrior,29,A,E,C,B,D,D,Axe[A] Bow[C+],"Backup, Built",Yes,22
+Warrior,29,A,E,C,B,D,D,Axe[A] Bow[C+],Backup,Yes,22
 Wolf Knight,25,C,D,A,B,D,C,Sword[B+] Knife[A+],Cavalry,Yes,22
 Wolf Knight,25,C,D,A,B,D,C,Lance[B+] Knife[A+],Cavalry,Yes,22
 Wolf Knight,25,C,D,A,B,D,C,Axe[B+] Knife[A+],Cavalry,Yes,22
-Wyvern Knight,27,A,E,B,D,B,D,Sword[B+] Lance[B+],"Dragon, Flying, Built",Yes,22
-Wyvern Knight,27,A,E,B,D,B,D,Sword[B+] Axe[B+],"Dragon, Flying, Built",Yes,22
-Wyvern Knight,27,A,E,B,D,B,D,Lance[B+] Axe[B+],"Dragon, Flying, Built",Yes,22
+Wyvern Knight,27,A,E,B,D,B,D,Sword[B+] Lance[B+],"Dragon, Flying",Yes,22
+Wyvern Knight,27,A,E,B,D,B,D,Sword[B+] Axe[B+],"Dragon, Flying",Yes,22
+Wyvern Knight,27,A,E,B,D,B,D,Lance[B+] Axe[B+],"Dragon, Flying",Yes,22
