@@ -1,9 +1,18 @@
 Type,Name,Lvl,Mt,Wt,Hit,Rng,DmgType,Price,Tags
-Art,Flashing Fist Art,B,3,-5,0,1,Phys,60.0,Brave Bonus(Agi+5) Cursed(Def-2) Cursed(Res-2)
-Art,Silver-Spirit Art,B,3,0,0,1,Phys,40.0,Brave
-Art,Steel-Hand Art,C,1,0,-10,1,Phys,20.0,Brave
-Art,Shielding Art,C,1,0,-10,1,Phys,25.0,Bonus(Def+1)
-Art,Divine Fist Art,S,7,-5,-5,1,Phys,100.0,Brave
+Sword,Georgios,S,11,-10,0,1,Phys,100.0,Heavy
+Sword,Caladbolg,S,11,-5,0,1,Phys,100.0,
+Sword,Silver Sword,A,9,0,0,1,Phys,40.0,
+Sword,Silver Blade,A,9,-5,0,1,Phys,60.0,Heavy
+Sword,Brave Sword,A,9,-5,0,1,Phys,80.0,Brave
+Sword,Wo Dao,A,9,0,0,1,Phys,25.0,Deadly(20)
+Sword,Steel Blade,B,7,0,-5,1,Phys,30.0,Heavy
+Sword,Killing Edge,B,7,0,-5,1,Phys,25.0,Deadly(20)
+Sword,Levin Sword,B,7,0,0,1~2,Mag,30.0,Enchanted
+Sword,Wyrmslayer,C,5,-5,0,1,Phys,25.0,Effective(Dragon)
+Sword,Steel Sword,C,5,0,0,1,Phys,20.0,
+Sword,Armorslayer,C,5,-5,-5,1,Phys,25.0,Effective(Armor)
+Axe,Fragarach,S,15,-10,0,1,Phys,100.0,
+Axe,Ukonvasara,S,15,-10,-10,1,Phys,100.0,Heavy
 Axe,Brave Axe,A,13,-10,-10,1,Phys,80.0,Brave
 Axe,Silver Axe,A,13,-5,-10,1,Phys,40.0,
 Axe,Tomahawk,A,13,-10,-20,1~2,Phys,45.0,
@@ -15,22 +24,8 @@ Axe,Poleaxe,C,9,-5,-20,1,Phys,25.0,Effective(Cavalry)
 Axe,Steel Axe,C,9,0,-15,1,Phys,20.0,
 Axe,Hammer,C,9,-5,-20,1,Phys,25.0,Effective(Armor)
 Axe,Hand Axe,C,7,-5,-15,1~2,Phys,18.0,
-Axe,Fragarach,S,15,-10,0,1,Phys,100.0,
-Axe,Ukonvasara,S,15,-10,-10,1,Phys,100.0,Heavy
-Bow,Silver Bow,A,11,0,0,2,Phys,40.0,Effective(Flying)
-Bow,Brave Bow,A,11,-5,-5,2,Phys,80.0,Brave Effective(Flying)
-Bow,Killer Bow,B,9,0,-5,2,Phys,30.0,Deadly(20) Effective(Flying)
-Bow,Radiant Bow,B,9,-5,-5,2,Mag,30.0,Enchanted Effective(Flying)
-Bow,Longbow,C,7,0,-10,2~3,Phys,20.0,Effective(Flying)
-Bow,Mini Bow,C,7,0,0,1~2,Phys,20.0,
-Bow,Steel Bow,C,7,0,0,2,Phys,20.0,Effective(Flying)
-Bow,Lendabair,S,13,-5,0,2,Phys,100.0,Effective(Flying)
-Dagger,Silver Dagger,A,9,0,0,1~2,Phys,40.0,Status(Poisoned)
-Dagger,Peshkatz,A,9,-5,0,1,Phys,40.0,Deadly(15) Status(Poisoned)
-Dagger,Stiletto,B,7,0,-5,1,Phys,20.0,Deadly(15) Status(Poisoned)
-Dagger,Steel Dagger,C,5,0,0,1~2,Phys,20.0,Status(Poisoned)
-Dagger,Cinquedea,S,11,-5,0,1~2,Phys,100.0,Status(Poisoned)
-Dagger,Carnwenhan,S,11,-5,0,1,Phys,100.0,Heavy Status(Poisoned)
+Lance,Brionac,S,13,-10,-10,1~2,Phys,100.0,
+Lance,Venomous,S,13,-10,0,1,Phys,100.0,Heavy Status(Poisoned)
 Lance,Brave Lance,A,11,-5,-5,1,Phys,80.0,Brave
 Lance,Silver Lance,A,11,0,0,1,Phys,40.0,
 Lance,Silver Greatlance,A,11,-10,-10,1,Phys,60.0,Heavy
@@ -41,8 +36,36 @@ Lance,Flame Lance,B,9,-10,-5,1~2,Mag,30.0,Enchanted
 Lance,Ridersbane,C,7,0,-10,1,Phys,25.0,Effective(Cavalry)
 Lance,Steel Lance,C,7,0,-5,1,Phys,20.0,
 Lance,Javelin,C,5,-5,-5,1~2,Phys,18.0,
-Lance,Brionac,S,13,-10,-10,1~2,Phys,100.0,
-Lance,Venomous,S,13,-10,0,1,Phys,100.0,Heavy Status(Poisoned)
+Bow,Lendabair,S,13,-5,0,2,Phys,100.0,Effective(Flying)
+Bow,Silver Bow,A,11,0,0,2,Phys,40.0,Effective(Flying)
+Bow,Brave Bow,A,11,-5,-5,2,Phys,80.0,Brave Effective(Flying)
+Bow,Killer Bow,B,9,0,-5,2,Phys,30.0,Deadly(20) Effective(Flying)
+Bow,Radiant Bow,B,9,-5,-5,2,Mag,30.0,Enchanted Effective(Flying)
+Bow,Longbow,C,7,0,-10,2~3,Phys,20.0,Effective(Flying)
+Bow,Mini Bow,C,7,0,0,1~2,Phys,20.0,
+Bow,Steel Bow,C,7,0,0,2,Phys,20.0,Effective(Flying)
+Dagger,Cinquedea,S,11,-5,0,1~2,Phys,100.0,Status(Poisoned)
+Dagger,Carnwenhan,S,11,-5,0,1,Phys,100.0,Heavy Status(Poisoned)
+Dagger,Silver Dagger,A,9,0,0,1~2,Phys,40.0,Status(Poisoned)
+Dagger,Peshkatz,A,9,-5,0,1,Phys,40.0,Deadly(15) Status(Poisoned)
+Dagger,Stiletto,B,7,0,-5,1,Phys,20.0,Deadly(15) Status(Poisoned)
+Dagger,Steel Dagger,C,5,0,0,1~2,Phys,20.0,Status(Poisoned)
+Art,Divine Fist Art,S,7,-5,-5,1,Phys,100.0,Brave
+Art,Flashing Fist Art,B,3,-5,0,1,Phys,60.0,Brave Bonus(Agi+5) Cursed(Def-2) Cursed(Res-2)
+Art,Silver-Spirit Art,B,3,0,0,1,Phys,40.0,Brave
+Art,Steel-Hand Art,C,1,0,-10,1,Phys,20.0,Brave
+Art,Shielding Art,C,1,0,-10,1,Phys,25.0,Bonus(Def+1)
+Tome,Excalibur,S,13,0,0,1~2,Mag,40.0,Effective(Flying)
+Tome,Nova,S,13,-5,-5,1~2,Mag,100.0,Brave
+Tome,Meteor,A,11,-10,0,3~7,Mag,1.0,Complex
+Tome,Thoron,A,11,-10,-10,1~3,Mag,40.0,Complex
+Tome,Bolganone,A,11,-5,0,1~2,Mag,40.0,
+Tome,Elwind,B,9,0,0,1~2,Mag,20.0,Effective(Flying)
+Tome,Elthunder,B,9,-5,-5,1~3,Mag,20.0,Complex
+Tome,Wind,C,7,0,0,1~2,Mag,10.0,Effective(Flying)
+Tome,Elsurge,C,7,0,100,1,Mag,25.0,
+Tome,Elfire,C,7,0,0,1~2,Mag,20.0,
+Staff,Nodus,S,13,0,0,Inf,Mag,60.0,Consumable(1)
 Staff,Fortify,A,11,0,0,1~5,Mag,50.0,AoE Heal(10) Consumable(3)
 Staff,Entrap,A,11,0,-30,1~6,Mag,40.0,Entrap Consumable(3)
 Staff,Recover,A,11,0,0,1,Mag,30.0,Heal(15) Consumable(3)
@@ -58,26 +81,3 @@ Staff,Obstruct,C,7,0,0,1~8,Mag,5.0,Vein(Ice) Consumable(5)
 Staff,Freeze,C,7,0,-10,1~6,Mag,15.0,Freeze Consumable(5)
 Staff,Rewarp,C,7,0,0,—,Mag,12.0,Rewarp Consumable(5)
 Staff,Restore,C,7,0,0,1~3,Mag,5.0,Heal(5) Consumable(5)
-Staff,Nodus,S,13,0,0,Inf,Mag,60.0,Consumable(1)
-Sword,Silver Sword,A,9,0,0,1,Phys,40.0,
-Sword,Silver Blade,A,9,-5,0,1,Phys,60.0,Heavy
-Sword,Brave Sword,A,9,-5,0,1,Phys,80.0,Brave
-Sword,Wo Dao,A,9,0,0,1,Phys,25.0,Deadly(20)
-Sword,Steel Blade,B,7,0,-5,1,Phys,30.0,Heavy
-Sword,Killing Edge,B,7,0,-5,1,Phys,25.0,Deadly(20)
-Sword,Levin Sword,B,7,0,0,1~2,Mag,30.0,Enchanted
-Sword,Wyrmslayer,C,5,-5,0,1,Phys,25.0,Effective(Dragon)
-Sword,Steel Sword,C,5,0,0,1,Phys,20.0,
-Sword,Armorslayer,C,5,-5,-5,1,Phys,25.0,Effective(Armor)
-Sword,Georgios,S,11,-10,0,1,Phys,100.0,Heavy
-Sword,Caladbolg,S,11,-5,0,1,Phys,100.0,
-Tome,Meteor,A,11,-10,0,3~7,Mag,1.0,Complex
-Tome,Thoron,A,11,-10,-10,1~3,Mag,40.0,Complex
-Tome,Bolganone,A,11,-5,0,1~2,Mag,40.0,
-Tome,Elwind,B,9,0,0,1~2,Mag,20.0,Effective(Flying)
-Tome,Elthunder,B,9,-5,-5,1~3,Mag,20.0,Complex
-Tome,Wind,C,7,0,0,1~2,Mag,10.0,Effective(Flying)
-Tome,Elsurge,C,7,0,100,1,Mag,25.0,
-Tome,Elfire,C,7,0,0,1~2,Mag,20.0,
-Tome,Excalibur,S,13,0,0,1~2,Mag,40.0,Effective(Flying)
-Tome,Nova,S,13,-5,-5,1~2,Mag,100.0,Brave
