@@ -37,8 +37,8 @@ Sage,43,26,48,34,30,20,44,30,11,False,True,—,Mystical,Tome[S] Staff[B+],Spell 
 Mage Knight,47,35,40,28,32,26,40,24,12,False,True,Cavalry,Cavalry,Sword[B+] Tome[A],Chaos Style,Seal Magic,
 Mage Knight,47,35,40,28,32,26,40,24,12,False,True,Cavalry,Cavalry,Lance[B+] Tome[A],Chaos Style,Seal Magic,
 Mage Knight,47,35,40,28,32,26,40,24,12,False,True,Cavalry,Cavalry,Axe[B+] Tome[A],Chaos Style,Seal Magic,
-Martial Monk,55,28,41,26,28,20,39,29,13,False,False,—,Qi Adept,Staff[B] Arts[C],—,—,
-Martial Master,66,38,41,26,28,27,39,29,15,False,True,—,Qi Adept,Staff[A] Arts[S],Diffuse Healer,Self-Destruct,
+Martial Monk,55,28,41,26,28,20,39,29,13,False,False,—,QiAdept,Staff[B] Arts[C],—,—,
+Martial Master,66,38,41,26,28,27,39,29,15,False,True,—,QiAdept,Staff[A] Arts[S],Diffuse Healer,Self-Destruct,
 High Priest,55,28,45,31,32,20,48,38,13,False,True,—,Mystical,Tome[B+] Staff[S] Arts[C+],Self-Healing,Warding Blow,
 Sword Flier,68,40,31,43,38,27,22,25,14,False,False,Flying,Flying,Sword[B],—,—,
 Lance Flier,68,40,31,43,38,27,22,25,14,False,False,Flying,Flying,Lance[B],—,—,
@@ -49,8 +49,8 @@ Griffin Knight,68,40,37,48,49,27,35,35,14,False,True,Flying,Flying,Axe[A+] Staff
 Wyvern Knight,83,46,31,43,38,35,22,25,18,False,True,Flying Dragon,Flying,Sword[B+] Lance[B+],Air Raid,Certain Blow,
 Wyvern Knight,83,46,31,43,38,35,22,25,18,False,True,Flying Dragon,Flying,Sword[B+] Axe[B+],Air Raid,Certain Blow,
 Wyvern Knight,83,46,31,43,38,35,22,25,18,False,True,Flying Dragon,Flying,Lance[B+] Axe[B+],Air Raid,Certain Blow,
-Thief,60,43,22,51,42,33,23,30,13,False,False,—,Covert,Knife[S],Pass,Savage Blow,Pick
-Dancer,64,36,31,29,43,24,26,39,15,False,False,—,Qi Adept,Arts[B],Special Dance,—,Dance
+Thief,60,43,22,51,42,33,23,30,13,False,False,—,Covert,Knife[B],Pass,Savage Blow,Pick
+Dancer,64,36,31,29,43,24,26,39,15,False,False,—,QiAdept,Arts[B],Special Dance,—,Dance
 Dragon Child,68,41,25,36,43,35,25,35,13,True,False,Dragon,Dragon,Sword[B],—,—,
 Divine Dragon,68,41,25,36,43,35,25,35,13,True,True,Dragon,Dragon,Sword[A] Arts[B],Divine Spirit,—,
 Fell Child,48,35,48,36,33,25,41,30,11,True,True,Fell Dragon,Dragon,Knife[B] Tome(S),Fell Spirit,—,

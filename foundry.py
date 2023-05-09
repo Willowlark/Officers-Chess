@@ -64,7 +64,7 @@ class Foundry(object):
             foundry['img'] = img
             foundry['system']['props']['health'] = int(x.HP)
             foundry['system']['props']['maxhplabel'] = str(x.HP)
-            foundry['system']['body']['contents'][6]['contents'][0]['contents'][2]['value'] = str(x.HP)
+            # foundry['system']['body']['contents'][6]['contents'][0]['contents'][2]['value'] = str(x.HP)
             foundry['system']['props']['class'] = x.Class
             foundry['system']['props']['totalcost'] = 0
             foundry['system']['props']['maxhp'] = (x.HP)

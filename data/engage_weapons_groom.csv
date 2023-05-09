@@ -43,21 +43,21 @@ Lance  ,Steel Lance       ,11 , 75 ,   5 ,10 ,1    ,C   ,     , 2000 ,          
 Lance  ,Javelin           , 6 , 80 ,   0 , 9 ,1~2  ,C   ,     , 1800 ,                                               ,A light throwing lance that can strike close or at range.
 Lance  ,Brionac           ,17 , 70 ,   0 ,17 ,1~2  ,S   ,     ,10000 ,                                               ,A powerful lance of legend. Can strike close or at range.
 Lance  ,Venomous          ,34 , 80 ,  10 ,20 ,1    ,S   ,     ,10000 ,Heavy Status(Poisoned)                         ,A lance of legend that smashes and poisons hit foes. Cannot follow up; or strike first if initiating combat.
-Staff  ,Fortify           , 7 ,100 ,   0 , 0 ,1~5  ,A   ,   5 , 5000 ,AoE Heal(10) Consumable(3)                     ,A staff imbued with healing magic. Recovers HP for all allies within a 5-space radius.
+Staff  ,Fortify           , 7 ,100 ,   0 , 0 ,1~5  ,A   ,   5 , 5000 ,AoE Heal(Mag+6) Consumable(3)                     ,A staff imbued with healing magic. Recovers HP for all allies within a 5-space radius.
 Staff  ,Entrap            , 0 , 50 ,   0 , 0 ,1~6  ,A   ,   3 , 4000 ,Entrap Consumable(3)                           ,A staff imbued with space-warping magic. Teleports a faraway foe to an adjacent space.
 Staff  ,Fracture          , 0 , 70 ,   0 , 0 ,1~10 ,B   ,  10 , 1200 ,Effect(Break) Consumable(5)                    ,A staff imbued with magic that can break foes.
 Staff  ,Rescue            , 0 ,100 ,   0 , 0 ,1~8  ,B   ,   5 , 2000 ,Rescue Consumable(5)                           ,A staff imbued with space-warping magic. Teleports a faraway ally to an adjacent space.
-Staff  ,Warp              , 0 ,100 ,   0 , 0 ,1    ,B   ,   5 , 2000 ,Warp Consumable(5)                             ,A staff imbued with space-warping magic. Teleports an adjacent ally up to 5 spaces away.
-Staff  ,Physic            , 8 ,100 ,   0 , 0 ,1~5  ,B   ,  10 , 3000 ,Heal(5) Consumable(5)                         ,A staff imbued with healing magic. Can recover an ally's HP at a distance.
-Staff  ,Heal              ,10 ,100 ,   0 , 0 ,1    ,C   ,  25 ,  500 ,Heal(5) Consumable(10)                          ,A staff imbued with healing magic. Recovers an ally's HP.
-Staff  ,Mend              ,20 ,100 ,   0 , 0 ,1    ,B   ,  20 , 1000 ,Heal(10) Consumable(7)                         ,A staff imbued with healing magic. Recovers a great deal of an ally's HP.
-Staff  ,Recover           ,40 ,100 ,   0 , 0 ,1    ,A   ,  10 , 3000 ,Heal(15) Consumable(3)                         ,A staff imbued with healing magic. Recovers vast amounts of an ally's HP.
+Staff  ,Warp              , 0 ,100 ,   0 , 0 ,1~5  ,B   ,   5 , 2000 ,Warp Consumable(5)                             ,A staff imbued with space-warping magic. Teleports an adjacent ally up to 5 spaces away.
+Staff  ,Physic            , 8 ,100 ,   0 , 0 ,1~5  ,B   ,  10 , 3000 ,Heal(Mag+3) Consumable(5)                         ,A staff imbued with healing magic. Can recover an ally's HP at a distance.
+Staff  ,Heal              ,10 ,100 ,   0 , 0 ,1    ,C   ,  25 ,  500 ,Heal(Mag+3) Consumable(10)                          ,A staff imbued with healing magic. Recovers an ally's HP.
+Staff  ,Mend              ,20 ,100 ,   0 , 0 ,1    ,B   ,  20 , 1000 ,Heal(Mag+6) Consumable(7)                         ,A staff imbued with healing magic. Recovers a great deal of an ally's HP.
+Staff  ,Recover           ,40 ,100 ,   0 , 0 ,1    ,A   ,  10 , 3000 ,Heal(Mag+9) Consumable(3)                         ,A staff imbued with healing magic. Recovers vast amounts of an ally's HP.
 Staff  ,Illume            , 0 ,100 ,   0 , 0 ,—    ,C   ,   5 ,  500 ,Torch(7) Consumable(5)                         ,A staff that magically shines through darkness. Illuminates a 7-space radius (shrinks one space per turn).
 Staff  ,Silence           , 0 , 70 ,   0 , 0 ,1~6  ,C   ,   5 , 1500 ,Effect(Silence) Consumable(5)                  ,A staff that prevents foes from using tomes or staves for 1 turn.
 Staff  ,Obstruct          , 0 ,100 ,   0 , 0 ,1~8  ,C   ,  10 ,  500 ,Vein(Ice) Consumable(5)                        ,A staff that conjures a mass of ice that makes one space impassable for 1 turn.
 Staff  ,Freeze            , 0 , 70 ,   0 , 0 ,1~6  ,C   ,   5 , 1500 ,Freeze Consumable(5)                           ,A staff that prevents foes from moving for 1 turn.
-Staff  ,Rewarp            , 0 ,100 ,   0 , 0 ,—    ,C   ,   5 , 1200 ,Rewarp Consumable(5)                           ,A staff imbued with space-warping magic. Teleports the user up to 5 spaces away.
-Staff  ,Restore           , 0 ,100 ,   0 , 0 ,1~3  ,C   ,  10 ,  500 ,Heal(5) Consumable(5)                          ,A staff that removes status effects on an ally.
+Staff  ,Rewarp            , 0 ,100 ,   0 , 0 ,1~5    ,C   ,   5 , 1200 ,Rewarp Consumable(5)                           ,A staff imbued with space-warping magic. Teleports the user up to 5 spaces away.
+Staff  ,Restore           , 0 ,100 ,   0 , 0 ,1~3  ,C   ,  10 ,  500 ,Restore Consumable(5)                          ,A staff that removes status effects on an ally.
 Staff  ,Nodus             ,20 ,100 ,   0 , 0 ,Inf  ,S   ,   1 , 6000 ,Consumable(1)                                  ,A staff imbued with mysterious magic that sets all allies' engage meters to max.
 Sword  ,Silver Sword      ,12 , 90 ,   0 ,11 ,1    ,A   ,     , 4000 ,                                               ,An exceptional sword of rare metals.
 Sword  ,Silver Blade      ,24 , 80 ,   0 ,13 ,1    ,A   ,     , 6000 ,Heavy                                          ,A massive sword of rare metals that smashes foes. Cannot follow up; or strike first if initiating combat.
@@ -72,7 +72,7 @@ Sword  ,Armorslayer       , 9 , 75 ,   0 ,13 ,1    ,C   ,     , 2500 ,Effective(
 Sword  ,Georgios          ,32 , 90 ,   0 ,18 ,1    ,S   ,     ,10000 ,Heavy                                          ,A legendary blade that smashes foes. Cannot follow up; or strike first if initiating combat.
 Sword  ,Caladbolg         ,15 , 95 ,   0 ,12 ,1    ,S   ,     ,10000 ,                                               ,A legendary sword; famous for its great power.
 Tome   ,Excalibur         ,10 , 80 ,   5 , 9 ,1~2  ,S   ,     , 4000 ,Effective(Flying)                              ,A truly mighty wind tome. Effective: Flying.
-Tome   ,Meteor            ,13 , 80 ,   0 ,20 ,3~7  ,A   ,     ,  100 ,Complex                                        ,A tome of long-range attack magic. Cannot be used at shorter ranges.
+Tome   ,Meteor            ,13 , 60 ,   0 ,20 ,3~7  ,A   ,     , 6000 ,Complex                                        ,A tome of long-range attack magic. Cannot be used at shorter ranges.
 Tome   ,Thoron            ,18 , 70 ,   0 ,16 ,1~3  ,A   ,     , 4000 ,Complex                                        ,A truly mighty thunder tome. Cannot follow up.
 Tome   ,Bolganone         ,16 , 85 ,   0 ,11 ,1~2  ,A   ,     , 4000 ,                                               ,A truly mighty fire tome.
 Tome   ,Elwind            , 7 , 85 ,   0 , 6 ,1~2  ,B   ,     , 2000 ,Effective(Flying)                              ,An advanced wind tome. Effective: Flying.

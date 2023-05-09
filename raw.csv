@@ -1,0 +1,53 @@
+Class,Promoted,Unique,HP,Str,Mag,Dex,Spd,Def,Res,Totals
+Sword Fighter,False,False,67,40,20,37,41,27,22,254
+Swordmaster,True,False,67,40,25,44,49,27,26,278
+Hero,True,False,75,45,20,37,41,34,22,274
+Hero,True,False,75,45,20,37,41,34,22,274
+Lance Fighter,False,False,69,43,29,47,36,28,25,277
+Halberdier,True,False,76,46,29,47,36,35,25,294
+Royal Knight,True,False,69,43,39,47,40,28,36,302
+Axe Fighter,False,False,94,46,17,23,29,20,11,240
+Berserker,True,False,96,49,17,23,29,20,11,245
+Warrior,True,False,94,46,20,30,33,27,18,268
+Archer,False,False,68,38,20,45,32,23,24,250
+Sniper,True,False,68,45,20,52,32,29,24,270
+Bow Knight,True,False,68,38,23,45,37,23,29,263
+Bow Knight,True,False,68,38,23,45,37,23,29,263
+Bow Knight,True,False,68,38,23,45,37,23,29,263
+Sword Armor,False,False,75,42,16,39,17,51,16,256
+Lance Armor,False,False,75,42,16,39,17,51,16,256
+Axe Armor,False,False,75,42,16,39,17,51,16,256
+General,True,False,86,47,16,39,17,55,16,276
+General,True,False,86,47,16,39,17,55,16,276
+General,True,False,86,47,16,39,17,55,16,276
+Great Knight,True,False,75,42,19,43,25,51,22,277
+Great Knight,True,False,75,42,19,43,25,51,22,277
+Great Knight,True,False,75,42,19,43,25,51,22,277
+Sword Cavalier,False,False,69,40,21,41,37,27,29,264
+Lance Cavalier,False,False,69,40,21,41,37,27,29,264
+Axe Cavalier,False,False,69,40,21,41,37,27,29,264
+Paladin,True,False,77,45,21,45,37,35,29,289
+Paladin,True,False,77,45,21,45,37,35,29,289
+Paladin,True,False,77,45,21,45,37,35,29,289
+Wolf Knight,True,False,69,40,26,41,45,27,33,281
+Wolf Knight,True,False,69,40,26,41,45,27,33,281
+Wolf Knight,True,False,69,40,26,41,45,27,33,281
+Mage,False,False,43,26,40,28,30,20,40,227
+Sage,True,False,43,26,48,34,30,20,44,245
+Mage Knight,True,False,47,35,40,28,32,26,40,248
+Mage Knight,True,False,47,35,40,28,32,26,40,248
+Mage Knight,True,False,47,35,40,28,32,26,40,248
+Martial Monk,False,False,55,28,41,26,28,20,39,237
+Martial Master,True,False,66,38,41,26,28,27,39,265
+High Priest,True,False,55,28,45,31,32,20,48,259
+Sword Flier,False,False,68,40,31,43,38,27,22,269
+Lance Flier,False,False,68,40,31,43,38,27,22,269
+Axe Flier,False,False,68,40,31,43,38,27,22,269
+Griffin Knight,True,False,68,40,37,48,49,27,35,304
+Griffin Knight,True,False,68,40,37,48,49,27,35,304
+Griffin Knight,True,False,68,40,37,48,49,27,35,304
+Wyvern Knight,True,False,83,46,31,43,38,35,22,298
+Wyvern Knight,True,False,83,46,31,43,38,35,22,298
+Wyvern Knight,True,False,83,46,31,43,38,35,22,298
+Thief,False,False,60,43,22,51,42,33,23,274
+Dancer,False,False,64,36,31,29,43,24,26,253

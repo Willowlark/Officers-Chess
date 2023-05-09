@@ -1,5 +1,5 @@
 {
-    "name": "Test Weapon",
+    "name": "Radiant Bow",
     "type": "equippableItem",
     "img": "icons/svg/item-bag.svg",
     "system": {
@@ -38,6 +38,18 @@
                             "charList": "",
                             "maxLength": "",
                             "type": "textField"
+                        },
+                        {
+                            "key": "equipped",
+                            "cssClass": "",
+                            "role": "0",
+                            "permission": "0",
+                            "tooltip": "",
+                            "visibilityFormula": "",
+                            "label": "Equipped",
+                            "defaultValue": null,
+                            "size": "m-small",
+                            "type": "checkbox"
                         },
                         {
                             "key": "lvl",
@@ -225,22 +237,31 @@
         },
         "template": "e01HTyTNxJDa8fJl",
         "props": {
-            "wpname": "Test",
+            "wpname": "Radiant Bow",
             "wpclass": "swords",
-            "dmgtype": "",
-            "might": "2",
-            "wprange": "1",
+            "dmgtype": "Magic",
+            "might": "6",
+            "wprange": "2",
             "weight": "1",
             "wptags": "",
-            "cost": "0",
-            "lvl": "F",
+            "cost": "30",
+            "lvl": "B",
             "wptype": "",
-            "type": "",
-            "wt": "",
-            "hit": "",
-            "tags": ""
+            "type": "Bow",
+            "wt": "-5",
+            "hit": "-5",
+            "tags": "Enchanted Effective(Flying)",
+            "gameversion": "v0.10",
+            "equipped": false
         },
-        "modifiers": [],
+        "modifiers": [
+            {
+                "priority": 0,
+                "key": "avo",
+                "operator": "add",
+                "formula": "${equipped ? wt : 0}$"
+            }
+        ],
         "unique": false
     },
     "effects": [],
@@ -260,8 +281,8 @@
         "systemVersion": "2.2.4",
         "coreVersion": "10.291",
         "createdTime": 1674832965680,
-        "modifiedTime": 1678742441142,
+        "modifiedTime": 1683668886168,
         "lastModifiedBy": "uq5xdVlxrWSzTiGc"
     },
-    "_id": "JjeM7ZhFoJbKgRFT"
+    "_id": "09bDkxMgdLEwg4UG"
 }
